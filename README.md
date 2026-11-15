@@ -4,7 +4,7 @@ A calm Quran memorisation coach for people who are new to Islam. This first prev
 
 This is a free Quran memorisation coach, published at [https://makerman-services.github.io/quran-memorisation-coach/](https://makerman-services.github.io/quran-memorisation-coach/). It is not listed on an app store and is not priced. It does not give religious rulings.
 
-This site bundles the official Tanzil Quran Text (Simple, Version 1.1) and the official ClearQuran Allah Edition English by Talal Itani, each taken from that project's official download and left unaltered. Transliteration is loaded only from `data/transliteration-verses.json`. No recitation audio is included.
+This site bundles the Tanzil Quran Text (Simple, Version 1.1) and the ClearQuran Allah Edition English by Talal Itani, each taken from that project's own download page and left unaltered. Transliteration is loaded only from `data/transliteration-verses.json`. No recitation audio is included.
 
 ## What’s in the folder
 
@@ -13,8 +13,8 @@ This site bundles the official Tanzil Quran Text (Simple, Version 1.1) and the o
 - `app.js` — spaced-repetition scheduler, localStorage, and the UI
 - `data/curriculum.json` — example verse groups (titles and verse references only)
 - `data/transliteration-verses.json` — public transliteration verse lines
-- `tanzil/quran-simple.txt` — official Tanzil Simple 1.1 Arabic, unaltered
-- `clearquran/clearquran-allah-edition.txt` — official ClearQuran Allah Edition English, unaltered
+- `tanzil/quran-simple.txt` — Tanzil Simple 1.1 Arabic, unaltered
+- `clearquran/clearquran-allah-edition.txt` — ClearQuran Allah Edition English, unaltered
 - `fonts/` — Scheherazade New Regular with `OFL.txt`, and `fonts/amiri/` Amiri Regular with its own `OFL.txt`
 - `LICENCES/` — Tanzil and ClearQuran notices
 - `tests/test_islamic_guide.js` — scheduler, combined reviews, persistence, verbatim credits and disclaimer, no wudu/prayer/duas screens, and no runtime network requests except credit links
@@ -37,8 +37,8 @@ Warm paper: background `#f6efe4`, text `#2b2620`, accent `#d9773a`. System fonts
 
 ## Sources and fonts in this preview
 
-- **Arabic:** Tanzil Quran Text (Simple, Version 1.1), used verbatim. Credit and a link to [tanzil.net](https://tanzil.net) are in About and sources, and beside the verses. The official copyright notice is in `LICENCES/TANZIL-QURAN-TEXT.txt` and at the end of `tanzil/quran-simple.txt`.
-- **English:** Translation by Talal Itani, [ClearQuran.com](https://clearquran.com), Allah Edition, wording unaltered, taken from the official ClearQuran download (not from Tanzil translation files). Notice in `LICENCES/CLEARQURAN.txt`.
+- **Arabic:** Tanzil Quran Text (Simple, Version 1.1), used verbatim. Credit and a link to [tanzil.net](https://tanzil.net) are in About and sources, and beside the verses. The Tanzil copyright notice is in `LICENCES/TANZIL-QURAN-TEXT.txt` and at the end of `tanzil/quran-simple.txt`.
+- **English:** Translation by Talal Itani, [ClearQuran.com](https://clearquran.com), Allah Edition, wording unaltered, taken from the ClearQuran download (not from Tanzil translation files). Notice in `LICENCES/CLEARQURAN.txt`.
 - **Transliteration:** only from `data/transliteration-verses.json`. Transliteration is approximate. Learn the Arabic pronunciation from a teacher.
 - **Fonts:** Scheherazade New and Amiri, each self-hosted, SIL Open Font License 1.1, each with `OFL.txt`. No Google Fonts and no font CDN.
 - **Not included:** recitation audio; Tanzil translation files; any other English translation; wudu or prayer step screens; and other screens held for a later reviewer.
