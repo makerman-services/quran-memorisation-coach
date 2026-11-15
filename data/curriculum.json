@@ -1,0 +1,85 @@
+{
+  "label": "Example data",
+  "note": "This beginner set is an example only. It lists a small sample of verse groups. Arabic is loaded from the official Tanzil Quran Text (Simple, Version 1.1) file. English is loaded from the official ClearQuran Allah Edition file by Talal Itani, unaltered. Transliteration is loaded only from transliteration-verses.json. No recitation audio is included.",
+  "arabicCredit": "Arabic Quran text: Tanzil Quran Text (Simple, Version 1.1), © 2007–2026 Tanzil Project, used verbatim under the Tanzil text licence (Creative Commons Attribution 3.0, with no changes allowed). Source: Tanzil Project, https://tanzil.net. Updates: http://tanzil.net/updates/.",
+  "englishCredit": "Translation by Talal Itani, ClearQuran.com",
+  "englishEdition": "Allah Edition",
+  "groups": [
+    {
+      "id": "fatiha-1",
+      "title": "Al-Fatiha 1:1–3",
+      "surah": "Al-Fatiha",
+      "reference": "1:1–3",
+      "order": 1,
+      "verses": [
+        { "surah": 1, "ayah": 1 },
+        { "surah": 1, "ayah": 2 },
+        { "surah": 1, "ayah": 3 }
+      ]
+    },
+    {
+      "id": "fatiha-2",
+      "title": "Al-Fatiha 1:4–5",
+      "surah": "Al-Fatiha",
+      "reference": "1:4–5",
+      "order": 2,
+      "verses": [
+        { "surah": 1, "ayah": 4 },
+        { "surah": 1, "ayah": 5 }
+      ]
+    },
+    {
+      "id": "fatiha-3",
+      "title": "Al-Fatiha 1:6–7",
+      "surah": "Al-Fatiha",
+      "reference": "1:6–7",
+      "order": 3,
+      "verses": [
+        { "surah": 1, "ayah": 6 },
+        { "surah": 1, "ayah": 7 }
+      ]
+    },
+    {
+      "id": "ikhlas",
+      "title": "Al-Ikhlas 112:1–4",
+      "surah": "Al-Ikhlas",
+      "reference": "112:1–4",
+      "order": 4,
+      "verses": [
+        { "surah": 112, "ayah": 1 },
+        { "surah": 112, "ayah": 2 },
+        { "surah": 112, "ayah": 3 },
+        { "surah": 112, "ayah": 4 }
+      ]
+    },
+    {
+      "id": "falaq",
+      "title": "Al-Falaq 113:1–5",
+      "surah": "Al-Falaq",
+      "reference": "113:1–5",
+      "order": 5,
+      "verses": [
+        { "surah": 113, "ayah": 1 },
+        { "surah": 113, "ayah": 2 },
+        { "surah": 113, "ayah": 3 },
+        { "surah": 113, "ayah": 4 },
+        { "surah": 113, "ayah": 5 }
+      ]
+    },
+    {
+      "id": "nas",
+      "title": "An-Nas 114:1–6",
+      "surah": "An-Nas",
+      "reference": "114:1–6",
+      "order": 6,
+      "verses": [
+        { "surah": 114, "ayah": 1 },
+        { "surah": 114, "ayah": 2 },
+        { "surah": 114, "ayah": 3 },
+        { "surah": 114, "ayah": 4 },
+        { "surah": 114, "ayah": 5 },
+        { "surah": 114, "ayah": 6 }
+      ]
+    }
+  ]
+}

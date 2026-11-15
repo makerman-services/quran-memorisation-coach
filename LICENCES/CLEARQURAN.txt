@@ -1,0 +1,28 @@
+ClearQuran English translation (Allah Edition)
+Translator: Talal Itani
+Official source: https://clearquran.com/download/
+Required credit line: Translation by Talal Itani, ClearQuran.com
+Link ClearQuran.com to https://clearquran.com
+
+Taken from the official ClearQuran.com plain-text download
+(https://d.clearquran.com/text/clearquran-txt-allah-edition.zip),
+not from Tanzil translation files.
+The wording of the translation is unaltered. The official file is
+bundled in full at clearquran/clearquran-allah-edition.txt.
+
+Licence: Creative Commons Attribution-NoDerivatives 4.0 International
+(CC BY-ND 4.0), plus the copyright holder's extra permissions to
+reformat, convert, split, quote and combine, so long as no words of
+the translation are changed, added or removed, and the credit is included.
+See https://clearquran.com/download/ and https://creativecommons.org/licenses/by-nd/4.0/
+
+Official notice from the bundled file follows.
+
+#===================================================================
+# Name: Clear Quran (Allah Edition)
+# Translator: Talal Itani
+# Language: English
+# Last Update: October 9, 2026
+# Source: https://ClearQuran.com
+# License: CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+#===================================================================

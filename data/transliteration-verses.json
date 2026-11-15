@@ -1,0 +1,3428 @@
+[
+ {
+  "surah": 1,
+  "ayah": 1,
+  "translit": "Bismillāhir-raḥmānir-raḥīm",
+  "plain": "Bismillaahir-rahmaanir-raheem"
+ },
+ {
+  "surah": 1,
+  "ayah": 2,
+  "translit": "Al-ḥamdu lillāhi rabbil-ʿālamīn",
+  "plain": "Al-hamdu lillaahi rabbil-`aalameen"
+ },
+ {
+  "surah": 1,
+  "ayah": 3,
+  "translit": "Ar-raḥmānir-raḥīm",
+  "plain": "Ar-rahmaanir-raheem"
+ },
+ {
+  "surah": 1,
+  "ayah": 4,
+  "translit": "Māliki yawmid-dīn",
+  "plain": "Maaliki yawmid-deen"
+ },
+ {
+  "surah": 1,
+  "ayah": 5,
+  "translit": "Iyyāka naʿbudu waʾiyyāka nastaʿīn",
+  "plain": "Iyyaaka na`budu wa'iyyaaka nasta`een"
+ },
+ {
+  "surah": 1,
+  "ayah": 6,
+  "translit": "Ihdinaṣ-ṣirāṭal-mustaqīm",
+  "plain": "Ihdinas-siraatal-mustaqeem"
+ },
+ {
+  "surah": 1,
+  "ayah": 7,
+  "translit": "Ṣirāṭal-ladhīna anʿamta ʿalayhim ghayril-maghḍūbi ʿalayhim walaḍ-ḍāllīn",
+  "plain": "Siraatal-ladheena an`amta `alayhim ghayril-maghdoobi `alayhim walad-daalleen"
+ },
+ {
+  "surah": 78,
+  "ayah": 1,
+  "translit": "ʿAmma yatasāʾalūn",
+  "plain": "`Amma yatasaa'aloon"
+ },
+ {
+  "surah": 78,
+  "ayah": 2,
+  "translit": "ʿAnin-nabaʾil-ʿaẓīm",
+  "plain": "`Anin-naba'il-`azeem"
+ },
+ {
+  "surah": 78,
+  "ayah": 3,
+  "translit": "Al-ladhī hum fīhi mukhtalifūn",
+  "plain": "Al-ladhee hum feehi mukhtalifoon"
+ },
+ {
+  "surah": 78,
+  "ayah": 4,
+  "translit": "Kallā sayaʿlamūn",
+  "plain": "Kallaa saya`lamoon"
+ },
+ {
+  "surah": 78,
+  "ayah": 5,
+  "translit": "Thumma kallā sayaʿlamūn",
+  "plain": "Thumma kallaa saya`lamoon"
+ },
+ {
+  "surah": 78,
+  "ayah": 6,
+  "translit": "Alam najʿalil-arḍa mihādā",
+  "plain": "Alam naj`alil-arda mihaadaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 7,
+  "translit": "Wal-jibāla awtādā",
+  "plain": "Wal-jibaala awtaadaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 8,
+  "translit": "Wakhalaqnākum azwājā",
+  "plain": "Wakhalaqnaakum azwaajaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 9,
+  "translit": "Wajaʿalnā nawmakum subātā",
+  "plain": "Waja`alnaa nawmakum subaataa"
+ },
+ {
+  "surah": 78,
+  "ayah": 10,
+  "translit": "Wajaʿalnal-layla libāsā",
+  "plain": "Waja`alnal-layla libaasaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 11,
+  "translit": "Wajaʿalnan-nahāra maʿāshā",
+  "plain": "Waja`alnan-nahaara ma`aashaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 12,
+  "translit": "Wabanaynā fawqakum sabʿan shidādā",
+  "plain": "Wabanaynaa fawqakum sab`an shidaadaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 13,
+  "translit": "Wajaʿalnā sirājan wahhājā",
+  "plain": "Waja`alnaa siraajan wahhaajaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 14,
+  "translit": "Waʾanzalnā minal-muʿṣirāti māʾan thajjājā",
+  "plain": "Wa'anzalnaa minal-mu`siraati maa'an thajjaajaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 15,
+  "translit": "Linukhrija bihī ḥabban wanabātā",
+  "plain": "Linukhrija bihee habban wanabaataa"
+ },
+ {
+  "surah": 78,
+  "ayah": 16,
+  "translit": "Wajannātin alfāfā",
+  "plain": "Wajannaatin alfaafaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 17,
+  "translit": "Inna yawmal-faṣli kāna mīqātā",
+  "plain": "Inna yawmal-fasli kaana meeqaataa"
+ },
+ {
+  "surah": 78,
+  "ayah": 18,
+  "translit": "Yawma yunfakhu fiṣ-ṣūri fataʾtūna afwājā",
+  "plain": "Yawma yunfakhu fis-soori fata'toona afwaajaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 19,
+  "translit": "Wafutiḥatis-samāʾu fakānat abwābā",
+  "plain": "Wafutihatis-samaa'u fakaanat abwaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 20,
+  "translit": "Wasuyyiratil-jibālu fakānat sarābā",
+  "plain": "Wasuyyiratil-jibaalu fakaanat saraabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 21,
+  "translit": "Inna jahannama kānat mirṣādā",
+  "plain": "Inna jahannama kaanat mirsaadaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 22,
+  "translit": "Liṭ-ṭāghīna maʾābā",
+  "plain": "Lit-taagheena ma'aabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 23,
+  "translit": "Lābithīna fīhā aḥqābā",
+  "plain": "Laabitheena feehaa ahqaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 24,
+  "translit": "Lā yadhūqūna fīhā bardan walā sharābā",
+  "plain": "Laa yadhooqoona feehaa bardan walaa sharaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 25,
+  "translit": "Illā ḥamīman waghassāqā",
+  "plain": "Illaa hameeman waghassaaqaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 26,
+  "translit": "Jazāʾan wifāqā",
+  "plain": "Jazaa'an wifaaqaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 27,
+  "translit": "Innahum kānū lā yarjūna ḥisābā",
+  "plain": "Innahum kaanoo laa yarjoona hisaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 28,
+  "translit": "Wakadhdhabū biʾāyātinā kidhdhābā",
+  "plain": "Wakadhdhaboo bi'aayaatinaa kidhdhaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 29,
+  "translit": "Wakulla shayʾin aḥṣaynāhu kitābā",
+  "plain": "Wakulla shay'in ahsaynaahu kitaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 30,
+  "translit": "Fadhūqū falan nazīdakum illā ʿadhābā",
+  "plain": "Fadhooqoo falan nazeedakum illaa `adhaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 31,
+  "translit": "Inna lil-muttaqīna mafāzā",
+  "plain": "Inna lil-muttaqeena mafaazaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 32,
+  "translit": "Ḥadāʾiqa waʾaʿnābā",
+  "plain": "Hadaa'iqa wa'a`naabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 33,
+  "translit": "Wakawāʿiba atrābā",
+  "plain": "Wakawaa`iba atraabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 34,
+  "translit": "Wakaʾsan dihāqā",
+  "plain": "Waka'san dihaaqaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 35,
+  "translit": "Lā yasmaʿūna fīhā laghwan walā kidhdhābā",
+  "plain": "Laa yasma`oona feehaa laghwan walaa kidhdhaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 36,
+  "translit": "Jazāʾam mir rabbika ʿaṭāʾan ḥisābā",
+  "plain": "Jazaa'am mir rabbika `ataa'an hisaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 37,
+  "translit": "Rabbis-samāwāti wal-arḍi wamā baynahumar-raḥmāni lā yamlikūna minhu khiṭābā",
+  "plain": "Rabbis-samaawaati wal-ardi wamaa baynahumar-rahmaani laa yamlikoona minhu khitaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 38,
+  "translit": "Yawma yaqūmur-rūḥu wal-malāʾikatu ṣaffal lā yatakallamūna illā man adhina lahur-raḥmānu waqāla ṣawābā",
+  "plain": "Yawma yaqoomur-roohu wal-malaa'ikatu saffal laa yatakallamoona illaa man adhina lahur-rahmaanu waqaala sawaabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 39,
+  "translit": "Dhālikal-yawmul-ḥaqqu faman shāʾat-takhadha ilā rabbihī maʾābā",
+  "plain": "Dhaalikal-yawmul-haqqu faman shaa'at-takhadha ilaa rabbihee ma'aabaa"
+ },
+ {
+  "surah": 78,
+  "ayah": 40,
+  "translit": "Innā andharnākum ʿadhāban qarīban yawma yanẓurul-marʾu mā qaddamat yadāhu wayaqūlul-kāfiru yā laytanī kuntu turābā",
+  "plain": "Innaa andharnaakum `adhaaban qareeban yawma yanzurul-mar'u maa qaddamat yadaahu wayaqoolul-kaafiru yaa laytanee kuntu turaabaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 1,
+  "translit": "Wan-nāziʿāti gharqā",
+  "plain": "Wan-naazi`aati gharqaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 2,
+  "translit": "Wan-nāshiṭāti nashṭā",
+  "plain": "Wan-naashitaati nashtaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 3,
+  "translit": "Was-sābiḥāti sabḥā",
+  "plain": "Was-saabihaati sabhaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 4,
+  "translit": "Fas-sābiqāti sabqā",
+  "plain": "Fas-saabiqaati sabqaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 5,
+  "translit": "Fal-mudabbirāti amrā",
+  "plain": "Fal-mudabbiraati amraa"
+ },
+ {
+  "surah": 79,
+  "ayah": 6,
+  "translit": "Yawma tarjufur-rājifah",
+  "plain": "Yawma tarjufur-raajifah"
+ },
+ {
+  "surah": 79,
+  "ayah": 7,
+  "translit": "Tatbaʿuhar-rādifah",
+  "plain": "Tatba`uhar-raadifah"
+ },
+ {
+  "surah": 79,
+  "ayah": 8,
+  "translit": "Qulūbun yawmaʾidhin wājifah",
+  "plain": "Quloobun yawma'idhin waajifah"
+ },
+ {
+  "surah": 79,
+  "ayah": 9,
+  "translit": "Abṣāruhā khāshiʿah",
+  "plain": "Absaaruhaa khaashi`ah"
+ },
+ {
+  "surah": 79,
+  "ayah": 10,
+  "translit": "Yaqūlūna aʾinnā lamardūdūna fil-ḥāfirah",
+  "plain": "Yaqooloona a'innaa lamardoodoona fil-haafirah"
+ },
+ {
+  "surah": 79,
+  "ayah": 11,
+  "translit": "Aʾidhā kunnā ʿiẓāman nakhirah",
+  "plain": "A'idhaa kunnaa `izaaman nakhirah"
+ },
+ {
+  "surah": 79,
+  "ayah": 12,
+  "translit": "Qālū tilka idhan karratun khāsirah",
+  "plain": "Qaaloo tilka idhan karratun khaasirah"
+ },
+ {
+  "surah": 79,
+  "ayah": 13,
+  "translit": "Faʾinnamā hiya zajratun wāḥidah",
+  "plain": "Fa'innamaa hiya zajratun waahidah"
+ },
+ {
+  "surah": 79,
+  "ayah": 14,
+  "translit": "Faʾidhā hum bis-sāhirah",
+  "plain": "Fa'idhaa hum bis-saahirah"
+ },
+ {
+  "surah": 79,
+  "ayah": 15,
+  "translit": "Hal atāka ḥadīthu mūsā",
+  "plain": "Hal ataaka hadeethu moosaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 16,
+  "translit": "Idh nādāhu rabbuhū bil-wādil-muqaddasi ṭuwā",
+  "plain": "Idh naadaahu rabbuhoo bil-waadil-muqaddasi tuwaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 17,
+  "translit": "Idh·hab ilā firʿawna innahū ṭaghā",
+  "plain": "Idh'hab ilaa fir`awna innahoo taghaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 18,
+  "translit": "Faqul hal laka ilā an tazakkā",
+  "plain": "Faqul hal laka ilaa an tazakkaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 19,
+  "translit": "Waʾahdiyaka ilā rabbika fatakhshā",
+  "plain": "Wa'ahdiyaka ilaa rabbika fatakhshaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 20,
+  "translit": "Faʾarāhul-āyatal-kubrā",
+  "plain": "Fa'araahul-aayatal-kubraa"
+ },
+ {
+  "surah": 79,
+  "ayah": 21,
+  "translit": "Fakadhdhaba waʿaṣā",
+  "plain": "Fakadhdhaba wa`asaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 22,
+  "translit": "Thumma adbara yasʿā",
+  "plain": "Thumma adbara yas`aa"
+ },
+ {
+  "surah": 79,
+  "ayah": 23,
+  "translit": "Faḥashara fanādā",
+  "plain": "Fahashara fanaadaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 24,
+  "translit": "Faqāla ana rabbukumul-aʿlā",
+  "plain": "Faqaala ana rabbukumul-a`laa"
+ },
+ {
+  "surah": 79,
+  "ayah": 25,
+  "translit": "Faʾakhadhahullāhu nakālal-ākhirati wal-ūlā",
+  "plain": "Fa'akhadhahullaahu nakaalal-aakhirati wal-oolaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 26,
+  "translit": "Inna fī dhālika laʿibratal liman yakhshā",
+  "plain": "Inna fee dhaalika la`ibratal liman yakhshaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 27,
+  "translit": "Aʾantum ashaddu khalqan amis-samāʾu banāhā",
+  "plain": "A'antum ashaddu khalqan amis-samaa'u banaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 28,
+  "translit": "Rafaʿa samkahā fasawwāhā",
+  "plain": "Rafa`a samkahaa fasawwaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 29,
+  "translit": "Waʾaghṭasha laylahā waʾakhraja ḍuḥāhā",
+  "plain": "Wa'aghtasha laylahaa wa'akhraja duhaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 30,
+  "translit": "Wal-arḍa baʿda dhālika daḥāhā",
+  "plain": "Wal-arda ba`da dhaalika dahaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 31,
+  "translit": "Akhraja minhā māʾahā wamarʿāhā",
+  "plain": "Akhraja minhaa maa'ahaa wamar`aahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 32,
+  "translit": "Wal-jibāla arsāhā",
+  "plain": "Wal-jibaala arsaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 33,
+  "translit": "Matāʿal lakum waliʾanʿāmikum",
+  "plain": "Mataa`al lakum wali'an`aamikum"
+ },
+ {
+  "surah": 79,
+  "ayah": 34,
+  "translit": "Faʾidhā jāʾatiṭ-ṭāmmatul-kubrā",
+  "plain": "Fa'idhaa jaa'atit-taammatul-kubraa"
+ },
+ {
+  "surah": 79,
+  "ayah": 35,
+  "translit": "Yawma yatadhakkarul-insānu mā saʿā",
+  "plain": "Yawma yatadhakkarul-insaanu maa sa`aa"
+ },
+ {
+  "surah": 79,
+  "ayah": 36,
+  "translit": "Waburrizatil-jaḥīmu liman yarā",
+  "plain": "Waburrizatil-jaheemu liman yaraa"
+ },
+ {
+  "surah": 79,
+  "ayah": 37,
+  "translit": "Faʾammā man ṭaghā",
+  "plain": "Fa'ammaa man taghaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 38,
+  "translit": "Waʾātharal-ḥayātad-dunyā",
+  "plain": "Wa'aatharal-hayaatad-dunyaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 39,
+  "translit": "Faʾinnal-jaḥīma hiyal-maʾwā",
+  "plain": "Fa'innal-jaheema hiyal-ma'waa"
+ },
+ {
+  "surah": 79,
+  "ayah": 40,
+  "translit": "Waʾammā man khāfa maqāma rabbihī wanahan-nafsa ʿanil-hawā",
+  "plain": "Wa'ammaa man khaafa maqaama rabbihee wanahan-nafsa `anil-hawaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 41,
+  "translit": "Faʾinnal-jannata hiyal-maʾwā",
+  "plain": "Fa'innal-jannata hiyal-ma'waa"
+ },
+ {
+  "surah": 79,
+  "ayah": 42,
+  "translit": "Yasʾalūnaka ʿanis-sāʿati ayyāna mursāhā",
+  "plain": "Yas'aloonaka `anis-saa`ati ayyaana mursaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 43,
+  "translit": "Fīma anta min dhikrāhā",
+  "plain": "Feema anta min dhikraahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 44,
+  "translit": "Ilā rabbika muntahāhā",
+  "plain": "Ilaa rabbika muntahaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 45,
+  "translit": "Innamā anta mundhiru man yakhshāhā",
+  "plain": "Innamaa anta mundhiru man yakhshaahaa"
+ },
+ {
+  "surah": 79,
+  "ayah": 46,
+  "translit": "Kaʾannahum yawma yarawnahā lam yalbathū illā ʿashiyyatan aw ḍuḥāhā",
+  "plain": "Ka'annahum yawma yarawnahaa lam yalbathoo illaa `ashiyyatan aw duhaahaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 1,
+  "translit": "ʿAbasa watawallā",
+  "plain": "`Abasa watawallaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 2,
+  "translit": "An jāʾahul-aʿmā",
+  "plain": "An jaa'ahul-a`maa"
+ },
+ {
+  "surah": 80,
+  "ayah": 3,
+  "translit": "Wamā yudrīka laʿallahū yazzakkā",
+  "plain": "Wamaa yudreeka la`allahoo yazzakkaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 4,
+  "translit": "Aw yadhdhakkaru fatanfaʿahudh-dhikrā",
+  "plain": "Aw yadhdhakkaru fatanfa`ahudh-dhikraa"
+ },
+ {
+  "surah": 80,
+  "ayah": 5,
+  "translit": "Ammā manis-taghnā",
+  "plain": "Ammaa manis-taghnaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 6,
+  "translit": "Faʾanta lahū taṣaddā",
+  "plain": "Fa'anta lahoo tasaddaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 7,
+  "translit": "Wamā ʿalayka allā yazzakkā",
+  "plain": "Wamaa `alayka allaa yazzakkaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 8,
+  "translit": "Waʾammā man jāʾaka yasʿā",
+  "plain": "Wa'ammaa man jaa'aka yas`aa"
+ },
+ {
+  "surah": 80,
+  "ayah": 9,
+  "translit": "Wahuwa yakhshā",
+  "plain": "Wahuwa yakhshaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 10,
+  "translit": "Faʾanta ʿanhu talahhā",
+  "plain": "Fa'anta `anhu talahhaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 11,
+  "translit": "Kallā innahā tadhkirah",
+  "plain": "Kallaa innahaa tadhkirah"
+ },
+ {
+  "surah": 80,
+  "ayah": 12,
+  "translit": "Faman shāʾa dhakarah",
+  "plain": "Faman shaa'a dhakarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 13,
+  "translit": "Fī ṣuḥufim mukarramah",
+  "plain": "Fee suhufim mukarramah"
+ },
+ {
+  "surah": 80,
+  "ayah": 14,
+  "translit": "Marfūʿatim muṭahharah",
+  "plain": "Marfoo`atim mutahharah"
+ },
+ {
+  "surah": 80,
+  "ayah": 15,
+  "translit": "Biʾaydī safarah",
+  "plain": "Bi'aydee safarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 16,
+  "translit": "Kirāmim bararah",
+  "plain": "Kiraamim bararah"
+ },
+ {
+  "surah": 80,
+  "ayah": 17,
+  "translit": "Qutilal-insānu mā akfarah",
+  "plain": "Qutilal-insaanu maa akfarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 18,
+  "translit": "Min ayyi shayʾin khalaqah",
+  "plain": "Min ayyi shay'in khalaqah"
+ },
+ {
+  "surah": 80,
+  "ayah": 19,
+  "translit": "Min nuṭfatin khalaqahū faqaddarah",
+  "plain": "Min nutfatin khalaqahoo faqaddarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 20,
+  "translit": "Thummas-sabīla yassarah",
+  "plain": "Thummas-sabeela yassarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 21,
+  "translit": "Thumma amātahū faʾaqbarah",
+  "plain": "Thumma amaatahoo fa'aqbarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 22,
+  "translit": "Thumma idhā shāʾa ansharah",
+  "plain": "Thumma idhaa shaa'a ansharah"
+ },
+ {
+  "surah": 80,
+  "ayah": 23,
+  "translit": "Kallā lammā yaqḍi mā amarah",
+  "plain": "Kallaa lammaa yaqdi maa amarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 24,
+  "translit": "Falyanẓuril-insānu ilā ṭaʿāmih",
+  "plain": "Falyanzuril-insaanu ilaa ta`aamih"
+ },
+ {
+  "surah": 80,
+  "ayah": 25,
+  "translit": "Annā ṣababnal-māʾa ṣabbā",
+  "plain": "Annaa sababnal-maa'a sabbaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 26,
+  "translit": "Thumma shaqaqnal-arḍa shaqqā",
+  "plain": "Thumma shaqaqnal-arda shaqqaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 27,
+  "translit": "Faʾambatnā fīhā ḥabbā",
+  "plain": "Fa'ambatnaa feehaa habbaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 28,
+  "translit": "Waʿinaban waqaḍbā",
+  "plain": "Wa`inaban waqadbaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 29,
+  "translit": "Wazaytūnan wanakhlā",
+  "plain": "Wazaytoonan wanakhlaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 30,
+  "translit": "Waḥadāʾiqa ghulbā",
+  "plain": "Wahadaa'iqa ghulbaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 31,
+  "translit": "Wafākihatan waʾabbā",
+  "plain": "Wafaakihatan wa'abbaa"
+ },
+ {
+  "surah": 80,
+  "ayah": 32,
+  "translit": "Matāʿal lakum waliʾanʿāmikum",
+  "plain": "Mataa`al lakum wali'an`aamikum"
+ },
+ {
+  "surah": 80,
+  "ayah": 33,
+  "translit": "Faʾidhā jāʾatiṣ-ṣākhkhah",
+  "plain": "Fa'idhaa jaa'atis-saakhkhah"
+ },
+ {
+  "surah": 80,
+  "ayah": 34,
+  "translit": "Yawma yafirrul-marʾu min akhīh",
+  "plain": "Yawma yafirrul-mar'u min akheeh"
+ },
+ {
+  "surah": 80,
+  "ayah": 35,
+  "translit": "Waʾummihī waʾabīh",
+  "plain": "Wa'ummihee wa'abeeh"
+ },
+ {
+  "surah": 80,
+  "ayah": 36,
+  "translit": "Waṣāḥibatihī wabanīh",
+  "plain": "Wasaahibatihee wabaneeh"
+ },
+ {
+  "surah": 80,
+  "ayah": 37,
+  "translit": "Likullim-riʾim minhum yawmaʾidhin shaʾnun yughnīh",
+  "plain": "Likullim-ri'im minhum yawma'idhin sha'nun yughneeh"
+ },
+ {
+  "surah": 80,
+  "ayah": 38,
+  "translit": "Wujūhun yawmaʾidhim musfirah",
+  "plain": "Wujoohun yawma'idhim musfirah"
+ },
+ {
+  "surah": 80,
+  "ayah": 39,
+  "translit": "Ḍāḥikatum mustabshirah",
+  "plain": "Daahikatum mustabshirah"
+ },
+ {
+  "surah": 80,
+  "ayah": 40,
+  "translit": "Wawujūhun yawmaʾidhin ʿalayhā ghabarah",
+  "plain": "Wawujoohun yawma'idhin `alayhaa ghabarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 41,
+  "translit": "Tarhaquhā qatarah",
+  "plain": "Tarhaquhaa qatarah"
+ },
+ {
+  "surah": 80,
+  "ayah": 42,
+  "translit": "Ulāʾika humul-kafaratul-fajarah",
+  "plain": "Ulaa'ika humul-kafaratul-fajarah"
+ },
+ {
+  "surah": 81,
+  "ayah": 1,
+  "translit": "Idhash-shamsu kuwwirat",
+  "plain": "Idhash-shamsu kuwwirat"
+ },
+ {
+  "surah": 81,
+  "ayah": 2,
+  "translit": "Waʾidhan-nujūmun-kadarat",
+  "plain": "Wa'idhan-nujoomun-kadarat"
+ },
+ {
+  "surah": 81,
+  "ayah": 3,
+  "translit": "Waʾidhal-jibālu suyyirat",
+  "plain": "Wa'idhal-jibaalu suyyirat"
+ },
+ {
+  "surah": 81,
+  "ayah": 4,
+  "translit": "Waʾidhal-ʿishāru ʿuṭṭilat",
+  "plain": "Wa'idhal-`ishaaru `uttilat"
+ },
+ {
+  "surah": 81,
+  "ayah": 5,
+  "translit": "Waʾidhal-wuḥūshu ḥushirat",
+  "plain": "Wa'idhal-wuhooshu hushirat"
+ },
+ {
+  "surah": 81,
+  "ayah": 6,
+  "translit": "Waʾidhal-biḥāru sujjirat",
+  "plain": "Wa'idhal-bihaaru sujjirat"
+ },
+ {
+  "surah": 81,
+  "ayah": 7,
+  "translit": "Waʾidhan-nufūsu zuwwijat",
+  "plain": "Wa'idhan-nufoosu zuwwijat"
+ },
+ {
+  "surah": 81,
+  "ayah": 8,
+  "translit": "Waʾidhal-mawʾūdatu suʾilat",
+  "plain": "Wa'idhal-maw'oodatu su'ilat"
+ },
+ {
+  "surah": 81,
+  "ayah": 9,
+  "translit": "Biʾayyi dhambin qutilat",
+  "plain": "Bi'ayyi dhambin qutilat"
+ },
+ {
+  "surah": 81,
+  "ayah": 10,
+  "translit": "Waʾidhaṣ-ṣuḥufu nushirat",
+  "plain": "Wa'idhas-suhufu nushirat"
+ },
+ {
+  "surah": 81,
+  "ayah": 11,
+  "translit": "Waʾidhas-samāʾu kushiṭat",
+  "plain": "Wa'idhas-samaa'u kushitat"
+ },
+ {
+  "surah": 81,
+  "ayah": 12,
+  "translit": "Waʾidhal-jaḥīmu suʿʿirat",
+  "plain": "Wa'idhal-jaheemu su``irat"
+ },
+ {
+  "surah": 81,
+  "ayah": 13,
+  "translit": "Waʾidhal-jannatu uzlifat",
+  "plain": "Wa'idhal-jannatu uzlifat"
+ },
+ {
+  "surah": 81,
+  "ayah": 14,
+  "translit": "ʿAlimat nafsum mā aḥḍarat",
+  "plain": "`Alimat nafsum maa ahdarat"
+ },
+ {
+  "surah": 81,
+  "ayah": 15,
+  "translit": "Falā uqsimu bil-khunnas",
+  "plain": "Falaa uqsimu bil-khunnas"
+ },
+ {
+  "surah": 81,
+  "ayah": 16,
+  "translit": "Al-jawāril-kunnas",
+  "plain": "Al-jawaaril-kunnas"
+ },
+ {
+  "surah": 81,
+  "ayah": 17,
+  "translit": "Wal-layli idhā ʿasʿas",
+  "plain": "Wal-layli idhaa `as`as"
+ },
+ {
+  "surah": 81,
+  "ayah": 18,
+  "translit": "Waṣ-ṣubḥi idhā tanaffas",
+  "plain": "Was-subhi idhaa tanaffas"
+ },
+ {
+  "surah": 81,
+  "ayah": 19,
+  "translit": "Innahū laqawlu rasūlin karīm",
+  "plain": "Innahoo laqawlu rasoolin kareem"
+ },
+ {
+  "surah": 81,
+  "ayah": 20,
+  "translit": "Dhī quwwatin ʿinda dhil-ʿarshi makīn",
+  "plain": "Dhee quwwatin `inda dhil-`arshi makeen"
+ },
+ {
+  "surah": 81,
+  "ayah": 21,
+  "translit": "Muṭāʿin thamma amīn",
+  "plain": "Mutaa`in thamma ameen"
+ },
+ {
+  "surah": 81,
+  "ayah": 22,
+  "translit": "Wamā ṣāḥibukum bimajnūn",
+  "plain": "Wamaa saahibukum bimajnoon"
+ },
+ {
+  "surah": 81,
+  "ayah": 23,
+  "translit": "Walaqad raʾāhu bil-ufuqil-mubīn",
+  "plain": "Walaqad ra'aahu bil-ufuqil-mubeen"
+ },
+ {
+  "surah": 81,
+  "ayah": 24,
+  "translit": "Wamā huwa ʿalal-ghaybi biḍanīn",
+  "plain": "Wamaa huwa `alal-ghaybi bidaneen"
+ },
+ {
+  "surah": 81,
+  "ayah": 25,
+  "translit": "Wamā huwa biqawli shayṭānir rajīm",
+  "plain": "Wamaa huwa biqawli shaytaanir rajeem"
+ },
+ {
+  "surah": 81,
+  "ayah": 26,
+  "translit": "Faʾayna tadh·habūn",
+  "plain": "Fa'ayna tadh'haboon"
+ },
+ {
+  "surah": 81,
+  "ayah": 27,
+  "translit": "In huwa illā dhikrul lil-ʿālamīn",
+  "plain": "In huwa illaa dhikrul lil-`aalameen"
+ },
+ {
+  "surah": 81,
+  "ayah": 28,
+  "translit": "Liman shāʾa minkum an yastaqīm",
+  "plain": "Liman shaa'a minkum an yastaqeem"
+ },
+ {
+  "surah": 81,
+  "ayah": 29,
+  "translit": "Wamā tashāʾūna illā an yashāʾallāhu rabbul-ʿālamīn",
+  "plain": "Wamaa tashaa'oona illaa an yashaa'allaahu rabbul-`aalameen"
+ },
+ {
+  "surah": 82,
+  "ayah": 1,
+  "translit": "Idhas-samāʾun-faṭarat",
+  "plain": "Idhas-samaa'un-fatarat"
+ },
+ {
+  "surah": 82,
+  "ayah": 2,
+  "translit": "Waʾidhal-kawākibun-tatharat",
+  "plain": "Wa'idhal-kawaakibun-tatharat"
+ },
+ {
+  "surah": 82,
+  "ayah": 3,
+  "translit": "Waʾidhal-biḥāru fujjirat",
+  "plain": "Wa'idhal-bihaaru fujjirat"
+ },
+ {
+  "surah": 82,
+  "ayah": 4,
+  "translit": "Waʾidhal-qubūru buʿthirat",
+  "plain": "Wa'idhal-qubooru bu`thirat"
+ },
+ {
+  "surah": 82,
+  "ayah": 5,
+  "translit": "ʿAlimat nafsum mā qaddamat waʾakhkharat",
+  "plain": "`Alimat nafsum maa qaddamat wa'akhkharat"
+ },
+ {
+  "surah": 82,
+  "ayah": 6,
+  "translit": "Yā ayyuhal-insānu mā gharraka birabbikal-karīm",
+  "plain": "Yaa ayyuhal-insaanu maa gharraka birabbikal-kareem"
+ },
+ {
+  "surah": 82,
+  "ayah": 7,
+  "translit": "Al-ladhī khalaqaka fasawwāka faʿadalak",
+  "plain": "Al-ladhee khalaqaka fasawwaaka fa`adalak"
+ },
+ {
+  "surah": 82,
+  "ayah": 8,
+  "translit": "Fī ayyi ṣūratim mā shāʾa rakkabak",
+  "plain": "Fee ayyi sooratim maa shaa'a rakkabak"
+ },
+ {
+  "surah": 82,
+  "ayah": 9,
+  "translit": "Kallā bal tukadhdhibūna bid-dīn",
+  "plain": "Kallaa bal tukadhdhiboona bid-deen"
+ },
+ {
+  "surah": 82,
+  "ayah": 10,
+  "translit": "Waʾinna ʿalaykum laḥāfiẓīn",
+  "plain": "Wa'inna `alaykum lahaafizeen"
+ },
+ {
+  "surah": 82,
+  "ayah": 11,
+  "translit": "Kirāman kātibīn",
+  "plain": "Kiraaman kaatibeen"
+ },
+ {
+  "surah": 82,
+  "ayah": 12,
+  "translit": "Yaʿlamūna mā tafʿalūn",
+  "plain": "Ya`lamoona maa taf`aloon"
+ },
+ {
+  "surah": 82,
+  "ayah": 13,
+  "translit": "Innal-abrāra lafī naʿīm",
+  "plain": "Innal-abraara lafee na`eem"
+ },
+ {
+  "surah": 82,
+  "ayah": 14,
+  "translit": "Waʾinnal-fujjāra lafī jaḥīm",
+  "plain": "Wa'innal-fujjaara lafee jaheem"
+ },
+ {
+  "surah": 82,
+  "ayah": 15,
+  "translit": "Yaṣlawnahā yawmad-dīn",
+  "plain": "Yaslawnahaa yawmad-deen"
+ },
+ {
+  "surah": 82,
+  "ayah": 16,
+  "translit": "Wamā hum ʿanhā bighāʾibīn",
+  "plain": "Wamaa hum `anhaa bighaa'ibeen"
+ },
+ {
+  "surah": 82,
+  "ayah": 17,
+  "translit": "Wamā adrāka mā yawmud-dīn",
+  "plain": "Wamaa adraaka maa yawmud-deen"
+ },
+ {
+  "surah": 82,
+  "ayah": 18,
+  "translit": "Thumma mā adrāka mā yawmud-dīn",
+  "plain": "Thumma maa adraaka maa yawmud-deen"
+ },
+ {
+  "surah": 82,
+  "ayah": 19,
+  "translit": "Yawma lā tamliku nafsul linafsin shayʾan wal-amru yawmaʾidhil lillāh",
+  "plain": "Yawma laa tamliku nafsul linafsin shay'an wal-amru yawma'idhil lillaah"
+ },
+ {
+  "surah": 83,
+  "ayah": 1,
+  "translit": "Waylul lil-muṭaffifīn",
+  "plain": "Waylul lil-mutaffifeen"
+ },
+ {
+  "surah": 83,
+  "ayah": 2,
+  "translit": "Al-ladhīna idhak-tālū ʿalan-nāsi yastawfūn",
+  "plain": "Al-ladheena idhak-taaloo `alan-naasi yastawfoon"
+ },
+ {
+  "surah": 83,
+  "ayah": 3,
+  "translit": "Waʾidhā kālūhum aw wazanūhum yukhsirūn",
+  "plain": "Wa'idhaa kaaloohum aw wazanoohum yukhsiroon"
+ },
+ {
+  "surah": 83,
+  "ayah": 4,
+  "translit": "Alā yaẓunnu ulāʾika annahum mabʿūthūn",
+  "plain": "Alaa yazunnu ulaa'ika annahum mab`oothoon"
+ },
+ {
+  "surah": 83,
+  "ayah": 5,
+  "translit": "Liyawmin ʿaẓīm",
+  "plain": "Liyawmin `azeem"
+ },
+ {
+  "surah": 83,
+  "ayah": 6,
+  "translit": "Yawma yaqūmun-nāsu lirabbil-ʿālamīn",
+  "plain": "Yawma yaqoomun-naasu lirabbil-`aalameen"
+ },
+ {
+  "surah": 83,
+  "ayah": 7,
+  "translit": "Kallā inna kitābal-fujjāri lafī sijjīn",
+  "plain": "Kallaa inna kitaabal-fujjaari lafee sijjeen"
+ },
+ {
+  "surah": 83,
+  "ayah": 8,
+  "translit": "Wamā adrāka mā sijjīn",
+  "plain": "Wamaa adraaka maa sijjeen"
+ },
+ {
+  "surah": 83,
+  "ayah": 9,
+  "translit": "Kitābum marqūm",
+  "plain": "Kitaabum marqoom"
+ },
+ {
+  "surah": 83,
+  "ayah": 10,
+  "translit": "Waylun yawmaʾidhil lil-mukadhdhibīn",
+  "plain": "Waylun yawma'idhil lil-mukadhdhibeen"
+ },
+ {
+  "surah": 83,
+  "ayah": 11,
+  "translit": "Al-ladhīna yukadhdhibūna biyawmid-dīn",
+  "plain": "Al-ladheena yukadhdhiboona biyawmid-deen"
+ },
+ {
+  "surah": 83,
+  "ayah": 12,
+  "translit": "Wamā yukadhdhibu bihī illā kullu muʿtadin athīm",
+  "plain": "Wamaa yukadhdhibu bihee illaa kullu mu`tadin atheem"
+ },
+ {
+  "surah": 83,
+  "ayah": 13,
+  "translit": "Idhā tutlā ʿalayhi āyātunā qāla asāṭīrul-awwalīn",
+  "plain": "Idhaa tutlaa `alayhi aayaatunaa qaala asaateerul-awwaleen"
+ },
+ {
+  "surah": 83,
+  "ayah": 14,
+  "translit": "Kallā bal rāna ʿalā qulūbihim mā kānū yaksibūn",
+  "plain": "Kallaa bal raana `alaa quloobihim maa kaanoo yaksiboon"
+ },
+ {
+  "surah": 83,
+  "ayah": 15,
+  "translit": "Kallā innahum ʿar rabbihim yawmaʾidhil lamaḥjūbūn",
+  "plain": "Kallaa innahum `ar rabbihim yawma'idhil lamahjooboon"
+ },
+ {
+  "surah": 83,
+  "ayah": 16,
+  "translit": "Thumma innahum laṣālul-jaḥīm",
+  "plain": "Thumma innahum lasaalul-jaheem"
+ },
+ {
+  "surah": 83,
+  "ayah": 17,
+  "translit": "Thumma yuqālu hādhal-ladhī kuntum bihī tukadhdhibūn",
+  "plain": "Thumma yuqaalu haadhal-ladhee kuntum bihee tukadhdhiboon"
+ },
+ {
+  "surah": 83,
+  "ayah": 18,
+  "translit": "Kallā inna kitābal-abrāri lafī ʿilliyyīn",
+  "plain": "Kallaa inna kitaabal-abraari lafee `illiyyeen"
+ },
+ {
+  "surah": 83,
+  "ayah": 19,
+  "translit": "Wamā adrāka mā ʿilliyyūn",
+  "plain": "Wamaa adraaka maa `illiyyoon"
+ },
+ {
+  "surah": 83,
+  "ayah": 20,
+  "translit": "Kitābum marqūm",
+  "plain": "Kitaabum marqoom"
+ },
+ {
+  "surah": 83,
+  "ayah": 21,
+  "translit": "Yash·haduhul-muqarrabūn",
+  "plain": "Yash'haduhul-muqarraboon"
+ },
+ {
+  "surah": 83,
+  "ayah": 22,
+  "translit": "Innal-abrāra lafī naʿīm",
+  "plain": "Innal-abraara lafee na`eem"
+ },
+ {
+  "surah": 83,
+  "ayah": 23,
+  "translit": "ʿAlal-arāʾiki yanẓurūn",
+  "plain": "`Alal-araa'iki yanzuroon"
+ },
+ {
+  "surah": 83,
+  "ayah": 24,
+  "translit": "Taʿrifu fī wujūhihim naḍratan-naʿīm",
+  "plain": "Ta`rifu fee wujoohihim nadratan-na`eem"
+ },
+ {
+  "surah": 83,
+  "ayah": 25,
+  "translit": "Yusqawna mir raḥīqim makhtūm",
+  "plain": "Yusqawna mir raheeqim makhtoom"
+ },
+ {
+  "surah": 83,
+  "ayah": 26,
+  "translit": "Khitāmuhū miskun wafī dhālika falyatanāfasil-mutanāfisūn",
+  "plain": "Khitaamuhoo miskun wafee dhaalika falyatanaafasil-mutanaafisoon"
+ },
+ {
+  "surah": 83,
+  "ayah": 27,
+  "translit": "Wamizājuhū min tasnīm",
+  "plain": "Wamizaajuhoo min tasneem"
+ },
+ {
+  "surah": 83,
+  "ayah": 28,
+  "translit": "ʿAynan yashrabu bihal-muqarrabūn",
+  "plain": "`Aynan yashrabu bihal-muqarraboon"
+ },
+ {
+  "surah": 83,
+  "ayah": 29,
+  "translit": "Innal-ladhīna ajramū kānū minal-ladhīna āmanū yaḍḥakūn",
+  "plain": "Innal-ladheena ajramoo kaanoo minal-ladheena aamanoo yadhakoon"
+ },
+ {
+  "surah": 83,
+  "ayah": 30,
+  "translit": "Waʾidhā marrū bihim yataghāmazūn",
+  "plain": "Wa'idhaa marroo bihim yataghaamazoon"
+ },
+ {
+  "surah": 83,
+  "ayah": 31,
+  "translit": "Waʾidhan-qalabū ilā ahlihimun-qalabū fakihīn",
+  "plain": "Wa'idhan-qalaboo ilaa ahlihimun-qalaboo fakiheen"
+ },
+ {
+  "surah": 83,
+  "ayah": 32,
+  "translit": "Waʾidhā raʾawhum qālū inna hāʾulāʾi laḍāllūn",
+  "plain": "Wa'idhaa ra'awhum qaaloo inna haa'ulaa'i ladaalloon"
+ },
+ {
+  "surah": 83,
+  "ayah": 33,
+  "translit": "Wamā ursilū ʿalayhim ḥāfiẓīn",
+  "plain": "Wamaa ursiloo `alayhim haafizeen"
+ },
+ {
+  "surah": 83,
+  "ayah": 34,
+  "translit": "Fal-yawmal-ladhīna āmanū minal-kuffāri yaḍḥakūn",
+  "plain": "Fal-yawmal-ladheena aamanoo minal-kuffaari yadhakoon"
+ },
+ {
+  "surah": 83,
+  "ayah": 35,
+  "translit": "ʿAlal-arāʾiki yanẓurūn",
+  "plain": "`Alal-araa'iki yanzuroon"
+ },
+ {
+  "surah": 83,
+  "ayah": 36,
+  "translit": "Hal thuwwibal-kuffāru mā kānū yafʿalūn",
+  "plain": "Hal thuwwibal-kuffaaru maa kaanoo yaf`aloon"
+ },
+ {
+  "surah": 84,
+  "ayah": 1,
+  "translit": "Idhas-samāʾun-shaqqat",
+  "plain": "Idhas-samaa'un-shaqqat"
+ },
+ {
+  "surah": 84,
+  "ayah": 2,
+  "translit": "Waʾadhinat lirabbihā waḥuqqat",
+  "plain": "Wa'adhinat lirabbihaa wahuqqat"
+ },
+ {
+  "surah": 84,
+  "ayah": 3,
+  "translit": "Waʾidhal-arḍu muddat",
+  "plain": "Wa'idhal-ardu muddat"
+ },
+ {
+  "surah": 84,
+  "ayah": 4,
+  "translit": "Waʾalqat mā fīhā watakhallat",
+  "plain": "Wa'alqat maa feehaa watakhallat"
+ },
+ {
+  "surah": 84,
+  "ayah": 5,
+  "translit": "Waʾadhinat lirabbihā waḥuqqat",
+  "plain": "Wa'adhinat lirabbihaa wahuqqat"
+ },
+ {
+  "surah": 84,
+  "ayah": 6,
+  "translit": "Yā ayyuhal-insānu innaka kādiḥun ilā rabbika kadḥan famulāqīh",
+  "plain": "Yaa ayyuhal-insaanu innaka kaadihun ilaa rabbika kadhan famulaaqeeh"
+ },
+ {
+  "surah": 84,
+  "ayah": 7,
+  "translit": "Faʾammā man ūtiya kitābahū biyamīnih",
+  "plain": "Fa'ammaa man ootiya kitaabahoo biyameenih"
+ },
+ {
+  "surah": 84,
+  "ayah": 8,
+  "translit": "Fasawfa yuḥāsabu ḥisāban yasīrā",
+  "plain": "Fasawfa yuhaasabu hisaaban yaseeraa"
+ },
+ {
+  "surah": 84,
+  "ayah": 9,
+  "translit": "Wayanqalibu ilā ahlihī masrūrā",
+  "plain": "Wayanqalibu ilaa ahlihee masrooraa"
+ },
+ {
+  "surah": 84,
+  "ayah": 10,
+  "translit": "Waʾammā man ūtiya kitābahū warāʾa ẓahrih",
+  "plain": "Wa'ammaa man ootiya kitaabahoo waraa'a zahrih"
+ },
+ {
+  "surah": 84,
+  "ayah": 11,
+  "translit": "Fasawfa yadʿū thubūrā",
+  "plain": "Fasawfa yad`oo thubooraa"
+ },
+ {
+  "surah": 84,
+  "ayah": 12,
+  "translit": "Wayaṣlā saʿīrā",
+  "plain": "Wayaslaa sa`eeraa"
+ },
+ {
+  "surah": 84,
+  "ayah": 13,
+  "translit": "Innahū kāna fī ahlihī masrūrā",
+  "plain": "Innahoo kaana fee ahlihee masrooraa"
+ },
+ {
+  "surah": 84,
+  "ayah": 14,
+  "translit": "Innahū ẓanna al lan yaḥūr",
+  "plain": "Innahoo zanna al lan yahoor"
+ },
+ {
+  "surah": 84,
+  "ayah": 15,
+  "translit": "Balā inna rabbahū kāna bihī baṣīrā",
+  "plain": "Balaa inna rabbahoo kaana bihee baseeraa"
+ },
+ {
+  "surah": 84,
+  "ayah": 16,
+  "translit": "Falā uqsimu bish-shafaq",
+  "plain": "Falaa uqsimu bish-shafaq"
+ },
+ {
+  "surah": 84,
+  "ayah": 17,
+  "translit": "Wal-layli wamā wasaq",
+  "plain": "Wal-layli wamaa wasaq"
+ },
+ {
+  "surah": 84,
+  "ayah": 18,
+  "translit": "Wal-qamari idhat-tasaq",
+  "plain": "Wal-qamari idhat-tasaq"
+ },
+ {
+  "surah": 84,
+  "ayah": 19,
+  "translit": "Latarkabunna ṭabaqan ʿan ṭabaq",
+  "plain": "Latarkabunna tabaqan `an tabaq"
+ },
+ {
+  "surah": 84,
+  "ayah": 20,
+  "translit": "Famā lahum lā yuʾminūn",
+  "plain": "Famaa lahum laa yu'minoon"
+ },
+ {
+  "surah": 84,
+  "ayah": 21,
+  "translit": "Waʾidhā quriʾa ʿalayhimul-qurʾānu lā yasjudūn",
+  "plain": "Wa'idhaa quri'a `alayhimul-qur'aanu laa yasjudoon"
+ },
+ {
+  "surah": 84,
+  "ayah": 22,
+  "translit": "Balil-ladhīna kafarū yukadhdhibūn",
+  "plain": "Balil-ladheena kafaroo yukadhdhiboon"
+ },
+ {
+  "surah": 84,
+  "ayah": 23,
+  "translit": "Wallāhu aʿlamu bimā yūʿūn",
+  "plain": "Wallaahu a`lamu bimaa yoo`oon"
+ },
+ {
+  "surah": 84,
+  "ayah": 24,
+  "translit": "Fabashshirhum biʿadhābin alīm",
+  "plain": "Fabashshirhum bi`adhaabin aleem"
+ },
+ {
+  "surah": 84,
+  "ayah": 25,
+  "translit": "Illal-ladhīna āmanū waʿamiluṣ-ṣāliḥāti lahum ajrun ghayru mamnūn",
+  "plain": "Illal-ladheena aamanoo wa`amilus-saalihaati lahum ajrun ghayru mamnoon"
+ },
+ {
+  "surah": 85,
+  "ayah": 1,
+  "translit": "Was-samāʾi dhātil-burūj",
+  "plain": "Was-samaa'i dhaatil-burooj"
+ },
+ {
+  "surah": 85,
+  "ayah": 2,
+  "translit": "Wal-yawmil-mawʿūd",
+  "plain": "Wal-yawmil-maw`ood"
+ },
+ {
+  "surah": 85,
+  "ayah": 3,
+  "translit": "Washāhidin wamash·hūd",
+  "plain": "Washaahidin wamash'hood"
+ },
+ {
+  "surah": 85,
+  "ayah": 4,
+  "translit": "Qutila aṣḥābul-ukhdūd",
+  "plain": "Qutila ashaabul-ukhdood"
+ },
+ {
+  "surah": 85,
+  "ayah": 5,
+  "translit": "An-nāri dhātil-waqūd",
+  "plain": "An-naari dhaatil-waqood"
+ },
+ {
+  "surah": 85,
+  "ayah": 6,
+  "translit": "Idh hum ʿalayhā quʿūd",
+  "plain": "Idh hum `alayhaa qu`ood"
+ },
+ {
+  "surah": 85,
+  "ayah": 7,
+  "translit": "Wahum ʿalā mā yafʿalūna bil-muʾminīna shuhūd",
+  "plain": "Wahum `alaa maa yaf`aloona bil-mu'mineena shuhood"
+ },
+ {
+  "surah": 85,
+  "ayah": 8,
+  "translit": "Wamā naqamū minhum illā an yuʾminū billāhil-ʿazīzil-ḥamīd",
+  "plain": "Wamaa naqamoo minhum illaa an yu'minoo billaahil-`azeezil-hameed"
+ },
+ {
+  "surah": 85,
+  "ayah": 9,
+  "translit": "Al-ladhī lahū mulkus-samāwāti wal-arḍi wallāhu ʿalā kulli shayʾin shahīd",
+  "plain": "Al-ladhee lahoo mulkus-samaawaati wal-ardi wallaahu `alaa kulli shay'in shaheed"
+ },
+ {
+  "surah": 85,
+  "ayah": 10,
+  "translit": "Innal-ladhīna fatanul-muʾminīna wal-muʾmināti thumma lam yatūbū falahum ʿadhābu jahannama walahum ʿadhābul-ḥarīq",
+  "plain": "Innal-ladheena fatanul-mu'mineena wal-mu'minaati thumma lam yatooboo falahum `adhaabu jahannama walahum `adhaabul-hareeq"
+ },
+ {
+  "surah": 85,
+  "ayah": 11,
+  "translit": "Innal-ladhīna āmanū waʿamiluṣ-ṣāliḥāti lahum jannātun tajrī min taḥtihal-anhāru dhālikal-fawzul-kabīr",
+  "plain": "Innal-ladheena aamanoo wa`amilus-saalihaati lahum jannaatun tajree min tahtihal-anhaaru dhaalikal-fawzul-kabeer"
+ },
+ {
+  "surah": 85,
+  "ayah": 12,
+  "translit": "Inna baṭsha rabbika lashadīd",
+  "plain": "Inna batsha rabbika lashadeed"
+ },
+ {
+  "surah": 85,
+  "ayah": 13,
+  "translit": "Innahū huwa yubdiʾu wayuʿīd",
+  "plain": "Innahoo huwa yubdi'u wayu`eed"
+ },
+ {
+  "surah": 85,
+  "ayah": 14,
+  "translit": "Wahuwal-ghafūrul-wadūd",
+  "plain": "Wahuwal-ghafoorul-wadood"
+ },
+ {
+  "surah": 85,
+  "ayah": 15,
+  "translit": "Dhul-ʿarshil-majīd",
+  "plain": "Dhul-`arshil-majeed"
+ },
+ {
+  "surah": 85,
+  "ayah": 16,
+  "translit": "Faʿʿālul limā yurīd",
+  "plain": "Fa``aalul limaa yureed"
+ },
+ {
+  "surah": 85,
+  "ayah": 17,
+  "translit": "Hal atāka ḥadīthul-junūd",
+  "plain": "Hal ataaka hadeethul-junood"
+ },
+ {
+  "surah": 85,
+  "ayah": 18,
+  "translit": "Firʿawna wathamūd",
+  "plain": "Fir`awna wathamood"
+ },
+ {
+  "surah": 85,
+  "ayah": 19,
+  "translit": "Balil-ladhīna kafarū fī takdhīb",
+  "plain": "Balil-ladheena kafaroo fee takdheeb"
+ },
+ {
+  "surah": 85,
+  "ayah": 20,
+  "translit": "Wallāhu min warāʾihim muḥīṭ",
+  "plain": "Wallaahu min waraa'ihim muheet"
+ },
+ {
+  "surah": 85,
+  "ayah": 21,
+  "translit": "Bal huwa qurʾānum majīd",
+  "plain": "Bal huwa qur'aanum majeed"
+ },
+ {
+  "surah": 85,
+  "ayah": 22,
+  "translit": "Fī lawḥim maḥfūẓ",
+  "plain": "Fee lawhim mahfooz"
+ },
+ {
+  "surah": 86,
+  "ayah": 1,
+  "translit": "Was-samāʾi waṭ-ṭāriq",
+  "plain": "Was-samaa'i wat-taariq"
+ },
+ {
+  "surah": 86,
+  "ayah": 2,
+  "translit": "Wamā adrāka maṭ-ṭāriq",
+  "plain": "Wamaa adraaka mat-taariq"
+ },
+ {
+  "surah": 86,
+  "ayah": 3,
+  "translit": "An-najmuth-thāqib",
+  "plain": "An-najmuth-thaaqib"
+ },
+ {
+  "surah": 86,
+  "ayah": 4,
+  "translit": "In kullu nafsil lammā ʿalayhā ḥāfiẓ",
+  "plain": "In kullu nafsil lammaa `alayhaa haafiz"
+ },
+ {
+  "surah": 86,
+  "ayah": 5,
+  "translit": "Falyanẓuril-insānu mimma khuliq",
+  "plain": "Falyanzuril-insaanu mimma khuliq"
+ },
+ {
+  "surah": 86,
+  "ayah": 6,
+  "translit": "Khuliqa mim māʾin dāfiq",
+  "plain": "Khuliqa mim maa'in daafiq"
+ },
+ {
+  "surah": 86,
+  "ayah": 7,
+  "translit": "Yakhruju mim bayniṣ-ṣulbi wat-tarāʾib",
+  "plain": "Yakhruju mim baynis-sulbi wat-taraa'ib"
+ },
+ {
+  "surah": 86,
+  "ayah": 8,
+  "translit": "Innahū ʿalā rajʿihī laqādir",
+  "plain": "Innahoo `alaa raj`ihee laqaadir"
+ },
+ {
+  "surah": 86,
+  "ayah": 9,
+  "translit": "Yawma tublas-sarāʾir",
+  "plain": "Yawma tublas-saraa'ir"
+ },
+ {
+  "surah": 86,
+  "ayah": 10,
+  "translit": "Famā lahū min quwwatin walā nāṣir",
+  "plain": "Famaa lahoo min quwwatin walaa naasir"
+ },
+ {
+  "surah": 86,
+  "ayah": 11,
+  "translit": "Was-samāʾi dhātir-rajʿ",
+  "plain": "Was-samaa'i dhaatir-raj`"
+ },
+ {
+  "surah": 86,
+  "ayah": 12,
+  "translit": "Wal-arḍi dhātiṣ-ṣadʿ",
+  "plain": "Wal-ardi dhaatis-sad`"
+ },
+ {
+  "surah": 86,
+  "ayah": 13,
+  "translit": "Innahū laqawlun faṣl",
+  "plain": "Innahoo laqawlun fasl"
+ },
+ {
+  "surah": 86,
+  "ayah": 14,
+  "translit": "Wamā huwa bil-hazl",
+  "plain": "Wamaa huwa bil-hazl"
+ },
+ {
+  "surah": 86,
+  "ayah": 15,
+  "translit": "Innahum yakīdūna kaydā",
+  "plain": "Innahum yakeedoona kaydaa"
+ },
+ {
+  "surah": 86,
+  "ayah": 16,
+  "translit": "Waʾakīdu kaydā",
+  "plain": "Wa'akeedu kaydaa"
+ },
+ {
+  "surah": 86,
+  "ayah": 17,
+  "translit": "Famahhilil-kāfirīna amhilhum ruwaydā",
+  "plain": "Famahhilil-kaafireena amhilhum ruwaydaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 1,
+  "translit": "Sabbiḥis-ma rabbikal-aʿlā",
+  "plain": "Sabbihis-ma rabbikal-a`laa"
+ },
+ {
+  "surah": 87,
+  "ayah": 2,
+  "translit": "Al-ladhī khalaqa fasawwā",
+  "plain": "Al-ladhee khalaqa fasawwaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 3,
+  "translit": "Wal-ladhī qaddara fahadā",
+  "plain": "Wal-ladhee qaddara fahadaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 4,
+  "translit": "Wal-ladhī akhrajal-marʿā",
+  "plain": "Wal-ladhee akhrajal-mar`aa"
+ },
+ {
+  "surah": 87,
+  "ayah": 5,
+  "translit": "Fajaʿalahū ghuthāʾan aḥwā",
+  "plain": "Faja`alahoo ghuthaa'an ahwaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 6,
+  "translit": "Sanuqriʾuka falā tansā",
+  "plain": "Sanuqri'uka falaa tansaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 7,
+  "translit": "Illā mā shāʾallāhu innahū yaʿlamul-jahra wamā yakhfā",
+  "plain": "Illaa maa shaa'allaahu innahoo ya`lamul-jahra wamaa yakhfaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 8,
+  "translit": "Wanuyassiruka lil-yusrā",
+  "plain": "Wanuyassiruka lil-yusraa"
+ },
+ {
+  "surah": 87,
+  "ayah": 9,
+  "translit": "Fadhakkir in nafaʿatidh-dhikrā",
+  "plain": "Fadhakkir in nafa`atidh-dhikraa"
+ },
+ {
+  "surah": 87,
+  "ayah": 10,
+  "translit": "Sayadhdhakkaru man yakhshā",
+  "plain": "Sayadhdhakkaru man yakhshaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 11,
+  "translit": "Wayatajannabuhal-ashqā",
+  "plain": "Wayatajannabuhal-ashqaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 12,
+  "translit": "Al-ladhī yaṣlan-nāral-kubrā",
+  "plain": "Al-ladhee yaslan-naaral-kubraa"
+ },
+ {
+  "surah": 87,
+  "ayah": 13,
+  "translit": "Thumma lā yamūtu fīhā walā yaḥyā",
+  "plain": "Thumma laa yamootu feehaa walaa yahyaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 14,
+  "translit": "Qad aflaḥa man tazakkā",
+  "plain": "Qad aflaha man tazakkaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 15,
+  "translit": "Wadhakaras-ma rabbihī faṣallā",
+  "plain": "Wadhakaras-ma rabbihee fasallaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 16,
+  "translit": "Bal tuʾthirūnal-ḥayātad-dunyā",
+  "plain": "Bal tu'thiroonal-hayaatad-dunyaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 17,
+  "translit": "Wal-ākhiratu khayrun waʾabqā",
+  "plain": "Wal-aakhiratu khayrun wa'abqaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 18,
+  "translit": "Inna hādhā lafiṣ-ṣuḥufil-ūlā",
+  "plain": "Inna haadhaa lafis-suhufil-oolaa"
+ },
+ {
+  "surah": 87,
+  "ayah": 19,
+  "translit": "Ṣuḥufi ibrāhīma wamūsā",
+  "plain": "Suhufi ibraaheema wamoosaa"
+ },
+ {
+  "surah": 88,
+  "ayah": 1,
+  "translit": "Hal atāka ḥadīthul-ghāshiyah",
+  "plain": "Hal ataaka hadeethul-ghaashiyah"
+ },
+ {
+  "surah": 88,
+  "ayah": 2,
+  "translit": "Wujūhun yawmaʾidhin khāshiʿah",
+  "plain": "Wujoohun yawma'idhin khaashi`ah"
+ },
+ {
+  "surah": 88,
+  "ayah": 3,
+  "translit": "ʿĀmilatun nāṣibah",
+  "plain": "`Aamilatun naasibah"
+ },
+ {
+  "surah": 88,
+  "ayah": 4,
+  "translit": "Taṣlā nāran ḥāmiyah",
+  "plain": "Taslaa naaran haamiyah"
+ },
+ {
+  "surah": 88,
+  "ayah": 5,
+  "translit": "Tusqā min ʿaynin āniyah",
+  "plain": "Tusqaa min `aynin aaniyah"
+ },
+ {
+  "surah": 88,
+  "ayah": 6,
+  "translit": "Laysa lahum ṭaʿāmun illā min ḍarīʿ",
+  "plain": "Laysa lahum ta`aamun illaa min daree`"
+ },
+ {
+  "surah": 88,
+  "ayah": 7,
+  "translit": "Lā yusminu walā yughnī min jūʿ",
+  "plain": "Laa yusminu walaa yughnee min joo`"
+ },
+ {
+  "surah": 88,
+  "ayah": 8,
+  "translit": "Wujūhun yawmaʾidhin nāʿimah",
+  "plain": "Wujoohun yawma'idhin naa`imah"
+ },
+ {
+  "surah": 88,
+  "ayah": 9,
+  "translit": "Lisaʿyihā rāḍiyah",
+  "plain": "Lisa`yihaa raadiyah"
+ },
+ {
+  "surah": 88,
+  "ayah": 10,
+  "translit": "Fī jannatin ʿāliyah",
+  "plain": "Fee jannatin `aaliyah"
+ },
+ {
+  "surah": 88,
+  "ayah": 11,
+  "translit": "Lā tasmaʿu fīhā lāghiyah",
+  "plain": "Laa tasma`u feehaa laaghiyah"
+ },
+ {
+  "surah": 88,
+  "ayah": 12,
+  "translit": "Fīhā ʿaynun jāriyah",
+  "plain": "Feehaa `aynun jaariyah"
+ },
+ {
+  "surah": 88,
+  "ayah": 13,
+  "translit": "Fīhā sururum marfūʿah",
+  "plain": "Feehaa sururum marfoo`ah"
+ },
+ {
+  "surah": 88,
+  "ayah": 14,
+  "translit": "Waʾakwābum mawḍūʿah",
+  "plain": "Wa'akwaabum mawdoo`ah"
+ },
+ {
+  "surah": 88,
+  "ayah": 15,
+  "translit": "Wanamāriqu maṣfūfah",
+  "plain": "Wanamaariqu masfoofah"
+ },
+ {
+  "surah": 88,
+  "ayah": 16,
+  "translit": "Wazarābiyyu mabthūthah",
+  "plain": "Wazaraabiyyu mabthoothah"
+ },
+ {
+  "surah": 88,
+  "ayah": 17,
+  "translit": "Afalā yanẓurūna ilal-ibili kayfa khuliqat",
+  "plain": "Afalaa yanzuroona ilal-ibili kayfa khuliqat"
+ },
+ {
+  "surah": 88,
+  "ayah": 18,
+  "translit": "Waʾilas-samāʾi kayfa rufiʿat",
+  "plain": "Wa'ilas-samaa'i kayfa rufi`at"
+ },
+ {
+  "surah": 88,
+  "ayah": 19,
+  "translit": "Waʾilal-jibāli kayfa nuṣibat",
+  "plain": "Wa'ilal-jibaali kayfa nusibat"
+ },
+ {
+  "surah": 88,
+  "ayah": 20,
+  "translit": "Waʾilal-arḍi kayfa suṭiḥat",
+  "plain": "Wa'ilal-ardi kayfa sutihat"
+ },
+ {
+  "surah": 88,
+  "ayah": 21,
+  "translit": "Fadhakkir innamā anta mudhakkir",
+  "plain": "Fadhakkir innamaa anta mudhakkir"
+ },
+ {
+  "surah": 88,
+  "ayah": 22,
+  "translit": "Lasta ʿalayhim bimuṣayṭir",
+  "plain": "Lasta `alayhim bimusaytir"
+ },
+ {
+  "surah": 88,
+  "ayah": 23,
+  "translit": "Illā man tawallā wakafar",
+  "plain": "Illaa man tawallaa wakafar"
+ },
+ {
+  "surah": 88,
+  "ayah": 24,
+  "translit": "Fayuʿadhdhibuhullāhul-ʿadhābal-akbar",
+  "plain": "Fayu`adhdhibuhullaahul-`adhaabal-akbar"
+ },
+ {
+  "surah": 88,
+  "ayah": 25,
+  "translit": "Inna ilaynā iyābahum",
+  "plain": "Inna ilaynaa iyaabahum"
+ },
+ {
+  "surah": 88,
+  "ayah": 26,
+  "translit": "Thumma inna ʿalaynā ḥisābahum",
+  "plain": "Thumma inna `alaynaa hisaabahum"
+ },
+ {
+  "surah": 89,
+  "ayah": 1,
+  "translit": "Wal-fajr",
+  "plain": "Wal-fajr"
+ },
+ {
+  "surah": 89,
+  "ayah": 2,
+  "translit": "Walayālin ʿashr",
+  "plain": "Walayaalin `ashr"
+ },
+ {
+  "surah": 89,
+  "ayah": 3,
+  "translit": "Wash-shafʿi wal-watr",
+  "plain": "Wash-shaf`i wal-watr"
+ },
+ {
+  "surah": 89,
+  "ayah": 4,
+  "translit": "Wal-layli idhā yasr",
+  "plain": "Wal-layli idhaa yasr"
+ },
+ {
+  "surah": 89,
+  "ayah": 5,
+  "translit": "Hal fī dhālika qasamul lidhī ḥijr",
+  "plain": "Hal fee dhaalika qasamul lidhee hijr"
+ },
+ {
+  "surah": 89,
+  "ayah": 6,
+  "translit": "Alam tara kayfa faʿala rabbuka biʿād",
+  "plain": "Alam tara kayfa fa`ala rabbuka bi`aad"
+ },
+ {
+  "surah": 89,
+  "ayah": 7,
+  "translit": "Irama dhātil-ʿimād",
+  "plain": "Irama dhaatil-`imaad"
+ },
+ {
+  "surah": 89,
+  "ayah": 8,
+  "translit": "Al-latī lam yukhlaq mithluhā fil-bilād",
+  "plain": "Al-latee lam yukhlaq mithluhaa fil-bilaad"
+ },
+ {
+  "surah": 89,
+  "ayah": 9,
+  "translit": "Wathamūdal-ladhīna jābuṣ-ṣakhra bil-wād",
+  "plain": "Wathamoodal-ladheena jaabus-sakhra bil-waad"
+ },
+ {
+  "surah": 89,
+  "ayah": 10,
+  "translit": "Wafirʿawna dhil-awtād",
+  "plain": "Wafir`awna dhil-awtaad"
+ },
+ {
+  "surah": 89,
+  "ayah": 11,
+  "translit": "Al-ladhīna ṭaghaw fil-bilād",
+  "plain": "Al-ladheena taghaw fil-bilaad"
+ },
+ {
+  "surah": 89,
+  "ayah": 12,
+  "translit": "Faʾaktharū fīhal-fasād",
+  "plain": "Fa'aktharoo feehal-fasaad"
+ },
+ {
+  "surah": 89,
+  "ayah": 13,
+  "translit": "Faṣabba ʿalayhim rabbuka sawṭa ʿadhāb",
+  "plain": "Fasabba `alayhim rabbuka sawta `adhaab"
+ },
+ {
+  "surah": 89,
+  "ayah": 14,
+  "translit": "Inna rabbaka labil-mirṣād",
+  "plain": "Inna rabbaka labil-mirsaad"
+ },
+ {
+  "surah": 89,
+  "ayah": 15,
+  "translit": "Faʾammal-insānu idhā mab-talāhu rabbuhū faʾakramahū wanaʿʿamahū fayaqūlu rabbī akraman",
+  "plain": "Fa'ammal-insaanu idhaa mab-talaahu rabbuhoo fa'akramahoo wana``amahoo fayaqoolu rabbee akraman"
+ },
+ {
+  "surah": 89,
+  "ayah": 16,
+  "translit": "Waʾammā idhā mab-talāhu faqadara ʿalayhi rizqahū fayaqūlu rabbī ahānan",
+  "plain": "Wa'ammaa idhaa mab-talaahu faqadara `alayhi rizqahoo fayaqoolu rabbee ahaanan"
+ },
+ {
+  "surah": 89,
+  "ayah": 17,
+  "translit": "Kallā bal lā tukrimūnal-yatīm",
+  "plain": "Kallaa bal laa tukrimoonal-yateem"
+ },
+ {
+  "surah": 89,
+  "ayah": 18,
+  "translit": "Walā taḥāḍḍūna ʿalā ṭaʿāmil-miskīn",
+  "plain": "Walaa tahaaddoona `alaa ta`aamil-miskeen"
+ },
+ {
+  "surah": 89,
+  "ayah": 19,
+  "translit": "Wataʾkulūnat-turātha aklal lammā",
+  "plain": "Wata'kuloonat-turaatha aklal lammaa"
+ },
+ {
+  "surah": 89,
+  "ayah": 20,
+  "translit": "Watuḥibbūnal-māla ḥubban jammā",
+  "plain": "Watuhibboonal-maala hubban jammaa"
+ },
+ {
+  "surah": 89,
+  "ayah": 21,
+  "translit": "Kallā idhā dukkatil-arḍu dakkan dakkā",
+  "plain": "Kallaa idhaa dukkatil-ardu dakkan dakkaa"
+ },
+ {
+  "surah": 89,
+  "ayah": 22,
+  "translit": "Wajāʾa rabbuka wal-malaku ṣaffan ṣaffā",
+  "plain": "Wajaa'a rabbuka wal-malaku saffan saffaa"
+ },
+ {
+  "surah": 89,
+  "ayah": 23,
+  "translit": "Wajīʾa yawmaʾidhim bijahannama yawmaʾidhin yatadhakkarul-insānu waʾannā lahudh-dhikrā",
+  "plain": "Wajee'a yawma'idhim bijahannama yawma'idhin yatadhakkarul-insaanu wa'annaa lahudh-dhikraa"
+ },
+ {
+  "surah": 89,
+  "ayah": 24,
+  "translit": "Yaqūlu yā laytanī qaddamtu liḥayātī",
+  "plain": "Yaqoolu yaa laytanee qaddamtu lihayaatee"
+ },
+ {
+  "surah": 89,
+  "ayah": 25,
+  "translit": "Fayawmaʾidhil lā yuʿadhdhibu ʿadhābahū aḥad",
+  "plain": "Fayawma'idhil laa yu`adhdhibu `adhaabahoo ahad"
+ },
+ {
+  "surah": 89,
+  "ayah": 26,
+  "translit": "Walā yūthiqu wathāqahū aḥad",
+  "plain": "Walaa yoothiqu wathaaqahoo ahad"
+ },
+ {
+  "surah": 89,
+  "ayah": 27,
+  "translit": "Yā ayyatuhan-nafsul-muṭmaʾinnah",
+  "plain": "Yaa ayyatuhan-nafsul-mutma'innah"
+ },
+ {
+  "surah": 89,
+  "ayah": 28,
+  "translit": "Irjiʿī ilā rabbiki rāḍiyatam marḍiyyah",
+  "plain": "Irji`ee ilaa rabbiki raadiyatam mardiyyah"
+ },
+ {
+  "surah": 89,
+  "ayah": 29,
+  "translit": "Fadkhulī fī ʿibādī",
+  "plain": "Fadkhulee fee `ibaadee"
+ },
+ {
+  "surah": 89,
+  "ayah": 30,
+  "translit": "Wadkhulī jannatī",
+  "plain": "Wadkhulee jannatee"
+ },
+ {
+  "surah": 90,
+  "ayah": 1,
+  "translit": "Lā uqsimu bihādhal-balad",
+  "plain": "Laa uqsimu bihaadhal-balad"
+ },
+ {
+  "surah": 90,
+  "ayah": 2,
+  "translit": "Waʾanta ḥillum bihādhal-balad",
+  "plain": "Wa'anta hillum bihaadhal-balad"
+ },
+ {
+  "surah": 90,
+  "ayah": 3,
+  "translit": "Wawālidin wamā walad",
+  "plain": "Wawaalidin wamaa walad"
+ },
+ {
+  "surah": 90,
+  "ayah": 4,
+  "translit": "Laqad khalaqnal-insāna fī kabad",
+  "plain": "Laqad khalaqnal-insaana fee kabad"
+ },
+ {
+  "surah": 90,
+  "ayah": 5,
+  "translit": "Ayaḥsabu al lan yaqdira ʿalayhi aḥad",
+  "plain": "Ayahsabu al lan yaqdira `alayhi ahad"
+ },
+ {
+  "surah": 90,
+  "ayah": 6,
+  "translit": "Yaqūlu ahlaktu mālal lubadā",
+  "plain": "Yaqoolu ahlaktu maalal lubadaa"
+ },
+ {
+  "surah": 90,
+  "ayah": 7,
+  "translit": "Ayaḥsabu al lam yarahū aḥad",
+  "plain": "Ayahsabu al lam yarahoo ahad"
+ },
+ {
+  "surah": 90,
+  "ayah": 8,
+  "translit": "Alam najʿal lahū ʿaynayn",
+  "plain": "Alam naj`al lahoo `aynayn"
+ },
+ {
+  "surah": 90,
+  "ayah": 9,
+  "translit": "Walisānan washafatayn",
+  "plain": "Walisaanan washafatayn"
+ },
+ {
+  "surah": 90,
+  "ayah": 10,
+  "translit": "Wahadaynāhun-najdayn",
+  "plain": "Wahadaynaahun-najdayn"
+ },
+ {
+  "surah": 90,
+  "ayah": 11,
+  "translit": "Falaq-taḥamal-ʿaqabah",
+  "plain": "Falaq-tahamal-`aqabah"
+ },
+ {
+  "surah": 90,
+  "ayah": 12,
+  "translit": "Wamā adrāka mal-ʿaqabah",
+  "plain": "Wamaa adraaka mal-`aqabah"
+ },
+ {
+  "surah": 90,
+  "ayah": 13,
+  "translit": "Fakku raqabah",
+  "plain": "Fakku raqabah"
+ },
+ {
+  "surah": 90,
+  "ayah": 14,
+  "translit": "Aw iṭʿāmun fī yawmin dhī masghabah",
+  "plain": "Aw it`aamun fee yawmin dhee masghabah"
+ },
+ {
+  "surah": 90,
+  "ayah": 15,
+  "translit": "Yatīman dhā maqrabah",
+  "plain": "Yateeman dhaa maqrabah"
+ },
+ {
+  "surah": 90,
+  "ayah": 16,
+  "translit": "Aw miskīnan dhā matrabah",
+  "plain": "Aw miskeenan dhaa matrabah"
+ },
+ {
+  "surah": 90,
+  "ayah": 17,
+  "translit": "Thumma kāna minal-ladhīna āmanū watawāṣaw biṣ-ṣabri watawāṣaw bil-marḥamah",
+  "plain": "Thumma kaana minal-ladheena aamanoo watawaasaw bis-sabri watawaasaw bil-marhamah"
+ },
+ {
+  "surah": 90,
+  "ayah": 18,
+  "translit": "Ulāʾika aṣḥābul-maymanah",
+  "plain": "Ulaa'ika ashaabul-maymanah"
+ },
+ {
+  "surah": 90,
+  "ayah": 19,
+  "translit": "Wal-ladhīna kafarū biʾāyātinā hum aṣḥābul-mashʾamah",
+  "plain": "Wal-ladheena kafaroo bi'aayaatinaa hum ashaabul-mash'amah"
+ },
+ {
+  "surah": 90,
+  "ayah": 20,
+  "translit": "ʿAlayhim nārum muʾṣadah",
+  "plain": "`Alayhim naarum mu'sadah"
+ },
+ {
+  "surah": 91,
+  "ayah": 1,
+  "translit": "Wash-shamsi waḍuḥāhā",
+  "plain": "Wash-shamsi waduhaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 2,
+  "translit": "Wal-qamari idhā talāhā",
+  "plain": "Wal-qamari idhaa talaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 3,
+  "translit": "Wan-nahāri idhā jallāhā",
+  "plain": "Wan-nahaari idhaa jallaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 4,
+  "translit": "Wal-layli idhā yaghshāhā",
+  "plain": "Wal-layli idhaa yaghshaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 5,
+  "translit": "Was-samāʾi wamā banāhā",
+  "plain": "Was-samaa'i wamaa banaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 6,
+  "translit": "Wal-arḍi wamā ṭaḥāhā",
+  "plain": "Wal-ardi wamaa tahaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 7,
+  "translit": "Wanafsin wamā sawwāhā",
+  "plain": "Wanafsin wamaa sawwaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 8,
+  "translit": "Faʾalhamahā fujūrahā wataqwāhā",
+  "plain": "Fa'alhamahaa fujoorahaa wataqwaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 9,
+  "translit": "Qad aflaḥa man zakkāhā",
+  "plain": "Qad aflaha man zakkaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 10,
+  "translit": "Waqad khāba man dassāhā",
+  "plain": "Waqad khaaba man dassaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 11,
+  "translit": "Kadhdhabat thamūdu biṭaghwāhā",
+  "plain": "Kadhdhabat thamoodu bitaghwaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 12,
+  "translit": "Idhim-baʿatha ashqāhā",
+  "plain": "Idhim-ba`atha ashqaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 13,
+  "translit": "Faqāla lahum rasūlullāhi nāqatallāhi wasuqyāhā",
+  "plain": "Faqaala lahum rasoolullaahi naaqatallaahi wasuqyaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 14,
+  "translit": "Fakadhdhabūhu faʿaqarūhā fadamdama ʿalayhim rabbuhum bidhambihim fasawwāhā",
+  "plain": "Fakadhdhaboohu fa`aqaroohaa fadamdama `alayhim rabbuhum bidhambihim fasawwaahaa"
+ },
+ {
+  "surah": 91,
+  "ayah": 15,
+  "translit": "Walā yakhāfu ʿuqbāhā",
+  "plain": "Walaa yakhaafu `uqbaahaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 1,
+  "translit": "Wal-layli idhā yaghshā",
+  "plain": "Wal-layli idhaa yaghshaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 2,
+  "translit": "Wan-nahāri idhā tajallā",
+  "plain": "Wan-nahaari idhaa tajallaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 3,
+  "translit": "Wamā khalaqadh-dhakara wal-unthā",
+  "plain": "Wamaa khalaqadh-dhakara wal-unthaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 4,
+  "translit": "Inna saʿyakum lashattā",
+  "plain": "Inna sa`yakum lashattaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 5,
+  "translit": "Faʾammā man aʿṭā wattaqā",
+  "plain": "Fa'ammaa man a`taa wattaqaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 6,
+  "translit": "Waṣaddaqa bil-ḥusnā",
+  "plain": "Wasaddaqa bil-husnaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 7,
+  "translit": "Fasanuyassiruhū lil-yusrā",
+  "plain": "Fasanuyassiruhoo lil-yusraa"
+ },
+ {
+  "surah": 92,
+  "ayah": 8,
+  "translit": "Waʾammā mam bakhila wastaghnā",
+  "plain": "Wa'ammaa mam bakhila wastaghnaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 9,
+  "translit": "Wakadhdhaba bil-ḥusnā",
+  "plain": "Wakadhdhaba bil-husnaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 10,
+  "translit": "Fasanuyassiruhū lil-ʿusrā",
+  "plain": "Fasanuyassiruhoo lil-`usraa"
+ },
+ {
+  "surah": 92,
+  "ayah": 11,
+  "translit": "Wamā yughnī ʿanhu māluhū idhā taraddā",
+  "plain": "Wamaa yughnee `anhu maaluhoo idhaa taraddaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 12,
+  "translit": "Inna ʿalaynā lal-hudā",
+  "plain": "Inna `alaynaa lal-hudaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 13,
+  "translit": "Waʾinna lanā lal-ākhirata wal-ūlā",
+  "plain": "Wa'inna lanaa lal-aakhirata wal-oolaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 14,
+  "translit": "Faʾandhartukum nāran talaẓẓā",
+  "plain": "Fa'andhartukum naaran talazzaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 15,
+  "translit": "Lā yaṣlāhā illal-ashqā",
+  "plain": "Laa yaslaahaa illal-ashqaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 16,
+  "translit": "Al-ladhī kadhdhaba watawallā",
+  "plain": "Al-ladhee kadhdhaba watawallaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 17,
+  "translit": "Wasayujannabuhal-atqā",
+  "plain": "Wasayujannabuhal-atqaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 18,
+  "translit": "Al-ladhī yuʾtī mālahū yatazakkā",
+  "plain": "Al-ladhee yu'tee maalahoo yatazakkaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 19,
+  "translit": "Wamā liʾaḥadin ʿindahū min niʿmatin tujzā",
+  "plain": "Wamaa li'ahadin `indahoo min ni`matin tujzaa"
+ },
+ {
+  "surah": 92,
+  "ayah": 20,
+  "translit": "Illab-tighāʾa wajhi rabbihil-aʿlā",
+  "plain": "Illab-tighaa'a wajhi rabbihil-a`laa"
+ },
+ {
+  "surah": 92,
+  "ayah": 21,
+  "translit": "Walasawfa yarḍā",
+  "plain": "Walasawfa yardaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 1,
+  "translit": "Waḍ-ḍuḥā",
+  "plain": "Wad-duhaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 2,
+  "translit": "Wal-layli idhā sajā",
+  "plain": "Wal-layli idhaa sajaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 3,
+  "translit": "Mā waddaʿaka rabbuka wamā qalā",
+  "plain": "Maa wadda`aka rabbuka wamaa qalaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 4,
+  "translit": "Walal-ākhiratu khayrul laka minal-ūlā",
+  "plain": "Walal-aakhiratu khayrul laka minal-oolaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 5,
+  "translit": "Walasawfa yuʿṭīka rabbuka fatarḍā",
+  "plain": "Walasawfa yu`teeka rabbuka fatardaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 6,
+  "translit": "Alam yajidka yatīman faʾāwā",
+  "plain": "Alam yajidka yateeman fa'aawaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 7,
+  "translit": "Wawajadaka ḍāllan fahadā",
+  "plain": "Wawajadaka daallan fahadaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 8,
+  "translit": "Wawajadaka ʿāʾilan faʾaghnā",
+  "plain": "Wawajadaka `aa'ilan fa'aghnaa"
+ },
+ {
+  "surah": 93,
+  "ayah": 9,
+  "translit": "Faʾammal-yatīma falā taqhar",
+  "plain": "Fa'ammal-yateema falaa taqhar"
+ },
+ {
+  "surah": 93,
+  "ayah": 10,
+  "translit": "Waʾammas-sāʾila falā tanhar",
+  "plain": "Wa'ammas-saa'ila falaa tanhar"
+ },
+ {
+  "surah": 93,
+  "ayah": 11,
+  "translit": "Waʾammā biniʿmati rabbika faḥaddith",
+  "plain": "Wa'ammaa bini`mati rabbika fahaddith"
+ },
+ {
+  "surah": 94,
+  "ayah": 1,
+  "translit": "Alam nashraḥ laka ṣadrak",
+  "plain": "Alam nashrah laka sadrak"
+ },
+ {
+  "surah": 94,
+  "ayah": 2,
+  "translit": "Wawaḍaʿnā ʿanka wizrak",
+  "plain": "Wawada`naa `anka wizrak"
+ },
+ {
+  "surah": 94,
+  "ayah": 3,
+  "translit": "Al-ladhī anqaḍa ẓahrak",
+  "plain": "Al-ladhee anqada zahrak"
+ },
+ {
+  "surah": 94,
+  "ayah": 4,
+  "translit": "Warafaʿnā laka dhikrak",
+  "plain": "Warafa`naa laka dhikrak"
+ },
+ {
+  "surah": 94,
+  "ayah": 5,
+  "translit": "Faʾinna maʿal-ʿusri yusrā",
+  "plain": "Fa'inna ma`al-`usri yusraa"
+ },
+ {
+  "surah": 94,
+  "ayah": 6,
+  "translit": "Inna maʿal-ʿusri yusrā",
+  "plain": "Inna ma`al-`usri yusraa"
+ },
+ {
+  "surah": 94,
+  "ayah": 7,
+  "translit": "Faʾidhā faraghta fanṣab",
+  "plain": "Fa'idhaa faraghta fansab"
+ },
+ {
+  "surah": 94,
+  "ayah": 8,
+  "translit": "Waʾilā rabbika farghab",
+  "plain": "Wa'ilaa rabbika farghab"
+ },
+ {
+  "surah": 95,
+  "ayah": 1,
+  "translit": "Wat-tīni waz-zaytūn",
+  "plain": "Wat-teeni waz-zaytoon"
+ },
+ {
+  "surah": 95,
+  "ayah": 2,
+  "translit": "Waṭūri sīnīn",
+  "plain": "Watoori seeneen"
+ },
+ {
+  "surah": 95,
+  "ayah": 3,
+  "translit": "Wahādhal-baladil-amīn",
+  "plain": "Wahaadhal-baladil-ameen"
+ },
+ {
+  "surah": 95,
+  "ayah": 4,
+  "translit": "Laqad khalaqnal-insāna fī aḥsani taqwīm",
+  "plain": "Laqad khalaqnal-insaana fee ahsani taqweem"
+ },
+ {
+  "surah": 95,
+  "ayah": 5,
+  "translit": "Thumma radadnāhu asfala sāfilīn",
+  "plain": "Thumma radadnaahu asfala saafileen"
+ },
+ {
+  "surah": 95,
+  "ayah": 6,
+  "translit": "Illal-ladhīna āmanū waʿamiluṣ-ṣāliḥāti falahum ajrun ghayru mamnūn",
+  "plain": "Illal-ladheena aamanoo wa`amilus-saalihaati falahum ajrun ghayru mamnoon"
+ },
+ {
+  "surah": 95,
+  "ayah": 7,
+  "translit": "Famā yukadhdhibuka baʿdu bid-dīn",
+  "plain": "Famaa yukadhdhibuka ba`du bid-deen"
+ },
+ {
+  "surah": 95,
+  "ayah": 8,
+  "translit": "Alaysallāhu biʾaḥkamil-ḥākimīn",
+  "plain": "Alaysallaahu bi'ahkamil-haakimeen"
+ },
+ {
+  "surah": 96,
+  "ayah": 1,
+  "translit": "Iqraʾ bismi rabbikal-ladhī khalaq",
+  "plain": "Iqra' bismi rabbikal-ladhee khalaq"
+ },
+ {
+  "surah": 96,
+  "ayah": 2,
+  "translit": "Khalaqal-insāna min ʿalaq",
+  "plain": "Khalaqal-insaana min `alaq"
+ },
+ {
+  "surah": 96,
+  "ayah": 3,
+  "translit": "Iqraʾ warabbukal-akram",
+  "plain": "Iqra' warabbukal-akram"
+ },
+ {
+  "surah": 96,
+  "ayah": 4,
+  "translit": "Al-ladhī ʿallama bil-qalam",
+  "plain": "Al-ladhee `allama bil-qalam"
+ },
+ {
+  "surah": 96,
+  "ayah": 5,
+  "translit": "ʿAllamal-insāna mā lam yaʿlam",
+  "plain": "`Allamal-insaana maa lam ya`lam"
+ },
+ {
+  "surah": 96,
+  "ayah": 6,
+  "translit": "Kallā innal-insāna layaṭghā",
+  "plain": "Kallaa innal-insaana layatghaa"
+ },
+ {
+  "surah": 96,
+  "ayah": 7,
+  "translit": "Ar raʾāhus-taghnā",
+  "plain": "Ar ra'aahus-taghnaa"
+ },
+ {
+  "surah": 96,
+  "ayah": 8,
+  "translit": "Inna ilā rabbikar-rujʿā",
+  "plain": "Inna ilaa rabbikar-ruj`aa"
+ },
+ {
+  "surah": 96,
+  "ayah": 9,
+  "translit": "Araʾaytal-ladhī yanhā",
+  "plain": "Ara'aytal-ladhee yanhaa"
+ },
+ {
+  "surah": 96,
+  "ayah": 10,
+  "translit": "ʿAbdan idhā ṣallā",
+  "plain": "`Abdan idhaa sallaa"
+ },
+ {
+  "surah": 96,
+  "ayah": 11,
+  "translit": "Araʾayta in kāna ʿalal-hudā",
+  "plain": "Ara'ayta in kaana `alal-hudaa"
+ },
+ {
+  "surah": 96,
+  "ayah": 12,
+  "translit": "Aw amara bit-taqwā",
+  "plain": "Aw amara bit-taqwaa"
+ },
+ {
+  "surah": 96,
+  "ayah": 13,
+  "translit": "Araʾayta in kadhdhaba watawallā",
+  "plain": "Ara'ayta in kadhdhaba watawallaa"
+ },
+ {
+  "surah": 96,
+  "ayah": 14,
+  "translit": "Alam yaʿlam biʾannallāha yarā",
+  "plain": "Alam ya`lam bi'annallaaha yaraa"
+ },
+ {
+  "surah": 96,
+  "ayah": 15,
+  "translit": "Kallā laʾil lam yantahi lanasfaʿam bin-nāṣiyah",
+  "plain": "Kallaa la'il lam yantahi lanasfa`am bin-naasiyah"
+ },
+ {
+  "surah": 96,
+  "ayah": 16,
+  "translit": "Nāṣiyatin kādhibatin khāṭiʾah",
+  "plain": "Naasiyatin kaadhibatin khaati'ah"
+ },
+ {
+  "surah": 96,
+  "ayah": 17,
+  "translit": "Falyadʿu nādiyah",
+  "plain": "Falyad`u naadiyah"
+ },
+ {
+  "surah": 96,
+  "ayah": 18,
+  "translit": "Sanadʿuz-zabāniyah",
+  "plain": "Sanad`uz-zabaaniyah"
+ },
+ {
+  "surah": 96,
+  "ayah": 19,
+  "translit": "Kallā lā tuṭiʿhu wasjud waqtarib",
+  "plain": "Kallaa laa tuti`hu wasjud waqtarib"
+ },
+ {
+  "surah": 97,
+  "ayah": 1,
+  "translit": "Innā anzalnāhu fī laylatil-qadr",
+  "plain": "Innaa anzalnaahu fee laylatil-qadr"
+ },
+ {
+  "surah": 97,
+  "ayah": 2,
+  "translit": "Wamā adrāka mā laylatul-qadr",
+  "plain": "Wamaa adraaka maa laylatul-qadr"
+ },
+ {
+  "surah": 97,
+  "ayah": 3,
+  "translit": "Laylatul-qadri khayrum min alfi shahr",
+  "plain": "Laylatul-qadri khayrum min alfi shahr"
+ },
+ {
+  "surah": 97,
+  "ayah": 4,
+  "translit": "Tanazzalul-malāʾikatu war-rūḥu fīhā biʾidhni rabbihim min kulli amr",
+  "plain": "Tanazzalul-malaa'ikatu war-roohu feehaa bi'idhni rabbihim min kulli amr"
+ },
+ {
+  "surah": 97,
+  "ayah": 5,
+  "translit": "Salāmun hiya ḥattā maṭlaʿil-fajr",
+  "plain": "Salaamun hiya hattaa matla`il-fajr"
+ },
+ {
+  "surah": 98,
+  "ayah": 1,
+  "translit": "Lam yakunil-ladhīna kafarū min ahlil-kitābi wal-mushrikīna munfakkīna ḥattā taʾtiyahumul-bayyinah",
+  "plain": "Lam yakunil-ladheena kafaroo min ahlil-kitaabi wal-mushrikeena munfakkeena hattaa ta'tiyahumul-bayyinah"
+ },
+ {
+  "surah": 98,
+  "ayah": 2,
+  "translit": "Rasūlum minallāhi yatlū ṣuḥufam muṭahharah",
+  "plain": "Rasoolum minallaahi yatloo suhufam mutahharah"
+ },
+ {
+  "surah": 98,
+  "ayah": 3,
+  "translit": "Fīhā kutubun qayyimah",
+  "plain": "Feehaa kutubun qayyimah"
+ },
+ {
+  "surah": 98,
+  "ayah": 4,
+  "translit": "Wamā tafarraqal-ladhīna ūtul-kitāba illā mim baʿdi mā jāʾat·humul-bayyinah",
+  "plain": "Wamaa tafarraqal-ladheena ootul-kitaaba illaa mim ba`di maa jaa'at'humul-bayyinah"
+ },
+ {
+  "surah": 98,
+  "ayah": 5,
+  "translit": "Wamā umirū illā liyaʿbudullāha mukhliṣīna lahud-dīna ḥunafāʾa wayuqīmuṣ-ṣalāta wayuʾtuz-zakāta wadhālika dīnul-qayyimah",
+  "plain": "Wamaa umiroo illaa liya`budullaaha mukhliseena lahud-deena hunafaa'a wayuqeemus-salaata wayu'tuz-zakaata wadhaalika deenul-qayyimah"
+ },
+ {
+  "surah": 98,
+  "ayah": 6,
+  "translit": "Innal-ladhīna kafarū min ahlil-kitābi wal-mushrikīna fī nāri jahannama khālidīna fīhā ulāʾika hum sharrul-bariyyah",
+  "plain": "Innal-ladheena kafaroo min ahlil-kitaabi wal-mushrikeena fee naari jahannama khaalideena feehaa ulaa'ika hum sharrul-bariyyah"
+ },
+ {
+  "surah": 98,
+  "ayah": 7,
+  "translit": "Innal-ladhīna āmanū waʿamiluṣ-ṣāliḥāti ulāʾika hum khayrul-bariyyah",
+  "plain": "Innal-ladheena aamanoo wa`amilus-saalihaati ulaa'ika hum khayrul-bariyyah"
+ },
+ {
+  "surah": 98,
+  "ayah": 8,
+  "translit": "Jazāʾuhum ʿinda rabbihim jannātu ʿadnin tajrī min taḥtihal-anhāru khālidīna fīhā abadar raḍiyallāhu ʿanhum waraḍū ʿanhu dhālika liman khashiya rabbah",
+  "plain": "Jazaa'uhum `inda rabbihim jannaatu `adnin tajree min tahtihal-anhaaru khaalideena feehaa abadar radiyallaahu `anhum waradoo `anhu dhaalika liman khashiya rabbah"
+ },
+ {
+  "surah": 99,
+  "ayah": 1,
+  "translit": "Idhā zulzilatil-arḍu zilzālahā",
+  "plain": "Idhaa zulzilatil-ardu zilzaalahaa"
+ },
+ {
+  "surah": 99,
+  "ayah": 2,
+  "translit": "Waʾakhrajatil-arḍu athqālahā",
+  "plain": "Wa'akhrajatil-ardu athqaalahaa"
+ },
+ {
+  "surah": 99,
+  "ayah": 3,
+  "translit": "Waqālal-insānu mā lahā",
+  "plain": "Waqaalal-insaanu maa lahaa"
+ },
+ {
+  "surah": 99,
+  "ayah": 4,
+  "translit": "Yawmaʾidhin tuḥaddithu akhbārahā",
+  "plain": "Yawma'idhin tuhaddithu akhbaarahaa"
+ },
+ {
+  "surah": 99,
+  "ayah": 5,
+  "translit": "Biʾanna rabbaka awḥā lahā",
+  "plain": "Bi'anna rabbaka awhaa lahaa"
+ },
+ {
+  "surah": 99,
+  "ayah": 6,
+  "translit": "Yawmaʾidhin yaṣdurun-nāsu ashtātal liyuraw aʿmālahum",
+  "plain": "Yawma'idhin yasdurun-naasu ashtaatal liyuraw a`maalahum"
+ },
+ {
+  "surah": 99,
+  "ayah": 7,
+  "translit": "Faman yaʿmal mithqāla dharratin khayran yarah",
+  "plain": "Faman ya`mal mithqaala dharratin khayran yarah"
+ },
+ {
+  "surah": 99,
+  "ayah": 8,
+  "translit": "Waman yaʿmal mithqāla dharratin sharran yarah",
+  "plain": "Waman ya`mal mithqaala dharratin sharran yarah"
+ },
+ {
+  "surah": 100,
+  "ayah": 1,
+  "translit": "Wal-ʿādiyāti ḍabḥā",
+  "plain": "Wal-`aadiyaati dabhaa"
+ },
+ {
+  "surah": 100,
+  "ayah": 2,
+  "translit": "Fal-mūriyāti qadḥā",
+  "plain": "Fal-mooriyaati qadhaa"
+ },
+ {
+  "surah": 100,
+  "ayah": 3,
+  "translit": "Fal-mughīrāti ṣubḥā",
+  "plain": "Fal-mugheeraati subhaa"
+ },
+ {
+  "surah": 100,
+  "ayah": 4,
+  "translit": "Faʾatharna bihī naqʿā",
+  "plain": "Fa'atharna bihee naq`aa"
+ },
+ {
+  "surah": 100,
+  "ayah": 5,
+  "translit": "Fawasaṭna bihī jamʿā",
+  "plain": "Fawasatna bihee jam`aa"
+ },
+ {
+  "surah": 100,
+  "ayah": 6,
+  "translit": "Innal-insāna lirabbihī lakanūd",
+  "plain": "Innal-insaana lirabbihee lakanood"
+ },
+ {
+  "surah": 100,
+  "ayah": 7,
+  "translit": "Waʾinnahū ʿalā dhālika lashahīd",
+  "plain": "Wa'innahoo `alaa dhaalika lashaheed"
+ },
+ {
+  "surah": 100,
+  "ayah": 8,
+  "translit": "Waʾinnahū liḥubbil-khayri lashadīd",
+  "plain": "Wa'innahoo lihubbil-khayri lashadeed"
+ },
+ {
+  "surah": 100,
+  "ayah": 9,
+  "translit": "Afalā yaʿlamu idhā buʿthira mā fil-qubūr",
+  "plain": "Afalaa ya`lamu idhaa bu`thira maa fil-quboor"
+ },
+ {
+  "surah": 100,
+  "ayah": 10,
+  "translit": "Waḥuṣṣila mā fiṣ-ṣudūr",
+  "plain": "Wahussila maa fis-sudoor"
+ },
+ {
+  "surah": 100,
+  "ayah": 11,
+  "translit": "Inna rabbahum bihim yawmaʾidhil lakhabīr",
+  "plain": "Inna rabbahum bihim yawma'idhil lakhabeer"
+ },
+ {
+  "surah": 101,
+  "ayah": 1,
+  "translit": "Al-qāriʿah",
+  "plain": "Al-qaari`ah"
+ },
+ {
+  "surah": 101,
+  "ayah": 2,
+  "translit": "Mal-qāriʿah",
+  "plain": "Mal-qaari`ah"
+ },
+ {
+  "surah": 101,
+  "ayah": 3,
+  "translit": "Wamā adrāka mal-qāriʿah",
+  "plain": "Wamaa adraaka mal-qaari`ah"
+ },
+ {
+  "surah": 101,
+  "ayah": 4,
+  "translit": "Yawma yakūnun-nāsu kal-farāshil-mabthūth",
+  "plain": "Yawma yakoonun-naasu kal-faraashil-mabthooth"
+ },
+ {
+  "surah": 101,
+  "ayah": 5,
+  "translit": "Watakūnul-jibālu kal-ʿihnil-manfūsh",
+  "plain": "Watakoonul-jibaalu kal-`ihnil-manfoosh"
+ },
+ {
+  "surah": 101,
+  "ayah": 6,
+  "translit": "Faʾammā man thaqulat mawāzīnuh",
+  "plain": "Fa'ammaa man thaqulat mawaazeenuh"
+ },
+ {
+  "surah": 101,
+  "ayah": 7,
+  "translit": "Fahuwa fī ʿīshatir rāḍiyah",
+  "plain": "Fahuwa fee `eeshatir raadiyah"
+ },
+ {
+  "surah": 101,
+  "ayah": 8,
+  "translit": "Waʾammā man khaffat mawāzīnuh",
+  "plain": "Wa'ammaa man khaffat mawaazeenuh"
+ },
+ {
+  "surah": 101,
+  "ayah": 9,
+  "translit": "Faʾummuhū hāwiyah",
+  "plain": "Fa'ummuhoo haawiyah"
+ },
+ {
+  "surah": 101,
+  "ayah": 10,
+  "translit": "Wamā adrāka mā hiyah",
+  "plain": "Wamaa adraaka maa hiyah"
+ },
+ {
+  "surah": 101,
+  "ayah": 11,
+  "translit": "Nārun ḥāmiyah",
+  "plain": "Naarun haamiyah"
+ },
+ {
+  "surah": 102,
+  "ayah": 1,
+  "translit": "Alhākumut-takāthur",
+  "plain": "Alhaakumut-takaathur"
+ },
+ {
+  "surah": 102,
+  "ayah": 2,
+  "translit": "Ḥattā zurtumul-maqābir",
+  "plain": "Hattaa zurtumul-maqaabir"
+ },
+ {
+  "surah": 102,
+  "ayah": 3,
+  "translit": "Kallā sawfa taʿlamūn",
+  "plain": "Kallaa sawfa ta`lamoon"
+ },
+ {
+  "surah": 102,
+  "ayah": 4,
+  "translit": "Thumma kallā sawfa taʿlamūn",
+  "plain": "Thumma kallaa sawfa ta`lamoon"
+ },
+ {
+  "surah": 102,
+  "ayah": 5,
+  "translit": "Kallā law taʿlamūna ʿilmal-yaqīn",
+  "plain": "Kallaa law ta`lamoona `ilmal-yaqeen"
+ },
+ {
+  "surah": 102,
+  "ayah": 6,
+  "translit": "Latarawunnal-jaḥīm",
+  "plain": "Latarawunnal-jaheem"
+ },
+ {
+  "surah": 102,
+  "ayah": 7,
+  "translit": "Thumma latarawunnahā ʿaynal-yaqīn",
+  "plain": "Thumma latarawunnahaa `aynal-yaqeen"
+ },
+ {
+  "surah": 102,
+  "ayah": 8,
+  "translit": "Thumma latusʾalunna yawmaʾidhin ʿanin-naʿīm",
+  "plain": "Thumma latus'alunna yawma'idhin `anin-na`eem"
+ },
+ {
+  "surah": 103,
+  "ayah": 1,
+  "translit": "Wal-ʿaṣr",
+  "plain": "Wal-`asr"
+ },
+ {
+  "surah": 103,
+  "ayah": 2,
+  "translit": "Innal-insāna lafī khusr",
+  "plain": "Innal-insaana lafee khusr"
+ },
+ {
+  "surah": 103,
+  "ayah": 3,
+  "translit": "Illal-ladhīna āmanū waʿamiluṣ-ṣāliḥāti watawāṣaw bil-ḥaqqi watawāṣaw biṣ-ṣabr",
+  "plain": "Illal-ladheena aamanoo wa`amilus-saalihaati watawaasaw bil-haqqi watawaasaw bis-sabr"
+ },
+ {
+  "surah": 104,
+  "ayah": 1,
+  "translit": "Waylul likulli humazatil lumazah",
+  "plain": "Waylul likulli humazatil lumazah"
+ },
+ {
+  "surah": 104,
+  "ayah": 2,
+  "translit": "Al-ladhī jamaʿa mālan waʿaddadah",
+  "plain": "Al-ladhee jama`a maalan wa`addadah"
+ },
+ {
+  "surah": 104,
+  "ayah": 3,
+  "translit": "Yaḥsabu anna mālahū akhladah",
+  "plain": "Yahsabu anna maalahoo akhladah"
+ },
+ {
+  "surah": 104,
+  "ayah": 4,
+  "translit": "Kallā layumbadhanna fil-ḥuṭamah",
+  "plain": "Kallaa layumbadhanna fil-hutamah"
+ },
+ {
+  "surah": 104,
+  "ayah": 5,
+  "translit": "Wamā adrāka mal-ḥuṭamah",
+  "plain": "Wamaa adraaka mal-hutamah"
+ },
+ {
+  "surah": 104,
+  "ayah": 6,
+  "translit": "Nārullāhil-mūqadah",
+  "plain": "Naarullaahil-mooqadah"
+ },
+ {
+  "surah": 104,
+  "ayah": 7,
+  "translit": "Al-latī taṭṭaliʿu ʿalal-afʾidah",
+  "plain": "Al-latee tattali`u `alal-af'idah"
+ },
+ {
+  "surah": 104,
+  "ayah": 8,
+  "translit": "Innahā ʿalayhim muʾṣadah",
+  "plain": "Innahaa `alayhim mu'sadah"
+ },
+ {
+  "surah": 104,
+  "ayah": 9,
+  "translit": "Fī ʿamadim mumaddadah",
+  "plain": "Fee `amadim mumaddadah"
+ },
+ {
+  "surah": 105,
+  "ayah": 1,
+  "translit": "Alam tara kayfa faʿala rabbuka biʾaṣḥābil-fīl",
+  "plain": "Alam tara kayfa fa`ala rabbuka bi'ashaabil-feel"
+ },
+ {
+  "surah": 105,
+  "ayah": 2,
+  "translit": "Alam yajʿal kaydahum fī taḍlīl",
+  "plain": "Alam yaj`al kaydahum fee tadleel"
+ },
+ {
+  "surah": 105,
+  "ayah": 3,
+  "translit": "Waʾarsala ʿalayhim ṭayran abābīl",
+  "plain": "Wa'arsala `alayhim tayran abaabeel"
+ },
+ {
+  "surah": 105,
+  "ayah": 4,
+  "translit": "Tarmīhim biḥijāratim min sijjīl",
+  "plain": "Tarmeehim bihijaaratim min sijjeel"
+ },
+ {
+  "surah": 105,
+  "ayah": 5,
+  "translit": "Fajaʿalahum kaʿaṣfim maʾkūl",
+  "plain": "Faja`alahum ka`asfim ma'kool"
+ },
+ {
+  "surah": 106,
+  "ayah": 1,
+  "translit": "Liʾīlāfi quraysh",
+  "plain": "Li'eelaafi quraysh"
+ },
+ {
+  "surah": 106,
+  "ayah": 2,
+  "translit": "Īlāfihim riḥlatash-shitāʾi waṣ-ṣayf",
+  "plain": "Eelaafihim rihlatash-shitaa'i was-sayf"
+ },
+ {
+  "surah": 106,
+  "ayah": 3,
+  "translit": "Falyaʿbudū rabba hādhal-bayt",
+  "plain": "Falya`budoo rabba haadhal-bayt"
+ },
+ {
+  "surah": 106,
+  "ayah": 4,
+  "translit": "Al-ladhī aṭʿamahum min jūʿin waʾāmanahum min khawf",
+  "plain": "Al-ladhee at`amahum min joo`in wa'aamanahum min khawf"
+ },
+ {
+  "surah": 107,
+  "ayah": 1,
+  "translit": "Araʾaytal-ladhī yukadhdhibu bid-dīn",
+  "plain": "Ara'aytal-ladhee yukadhdhibu bid-deen"
+ },
+ {
+  "surah": 107,
+  "ayah": 2,
+  "translit": "Fadhālikal-ladhī yaduʿʿul-yatīm",
+  "plain": "Fadhaalikal-ladhee yadu``ul-yateem"
+ },
+ {
+  "surah": 107,
+  "ayah": 3,
+  "translit": "Walā yaḥuḍḍu ʿalā ṭaʿāmil-miskīn",
+  "plain": "Walaa yahuddu `alaa ta`aamil-miskeen"
+ },
+ {
+  "surah": 107,
+  "ayah": 4,
+  "translit": "Fawaylul lil-muṣallīn",
+  "plain": "Fawaylul lil-musalleen"
+ },
+ {
+  "surah": 107,
+  "ayah": 5,
+  "translit": "Al-ladhīna hum ʿan ṣalātihim sāhūn",
+  "plain": "Al-ladheena hum `an salaatihim saahoon"
+ },
+ {
+  "surah": 107,
+  "ayah": 6,
+  "translit": "Al-ladhīna hum yurāʾūn",
+  "plain": "Al-ladheena hum yuraa'oon"
+ },
+ {
+  "surah": 107,
+  "ayah": 7,
+  "translit": "Wayamnaʿūnal-māʿūn",
+  "plain": "Wayamna`oonal-maa`oon"
+ },
+ {
+  "surah": 108,
+  "ayah": 1,
+  "translit": "Innā aʿṭaynākal-kawthar",
+  "plain": "Innaa a`taynaakal-kawthar"
+ },
+ {
+  "surah": 108,
+  "ayah": 2,
+  "translit": "Faṣalli lirabbika wanḥar",
+  "plain": "Fasalli lirabbika wanhar"
+ },
+ {
+  "surah": 108,
+  "ayah": 3,
+  "translit": "Inna shāniʾaka huwal-abtar",
+  "plain": "Inna shaani'aka huwal-abtar"
+ },
+ {
+  "surah": 109,
+  "ayah": 1,
+  "translit": "Qul yā ayyuhal-kāfirūn",
+  "plain": "Qul yaa ayyuhal-kaafiroon"
+ },
+ {
+  "surah": 109,
+  "ayah": 2,
+  "translit": "Lā aʿbudu mā taʿbudūn",
+  "plain": "Laa a`budu maa ta`budoon"
+ },
+ {
+  "surah": 109,
+  "ayah": 3,
+  "translit": "Walā antum ʿābidūna mā aʿbud",
+  "plain": "Walaa antum `aabidoona maa a`bud"
+ },
+ {
+  "surah": 109,
+  "ayah": 4,
+  "translit": "Walā ana ʿābidum mā ʿabattum",
+  "plain": "Walaa ana `aabidum maa `abattum"
+ },
+ {
+  "surah": 109,
+  "ayah": 5,
+  "translit": "Walā antum ʿābidūna mā aʿbud",
+  "plain": "Walaa antum `aabidoona maa a`bud"
+ },
+ {
+  "surah": 109,
+  "ayah": 6,
+  "translit": "Lakum dīnukum waliya dīn",
+  "plain": "Lakum deenukum waliya deen"
+ },
+ {
+  "surah": 110,
+  "ayah": 1,
+  "translit": "Idhā jāʾa naṣrullāhi wal-fatḥ",
+  "plain": "Idhaa jaa'a nasrullaahi wal-fath"
+ },
+ {
+  "surah": 110,
+  "ayah": 2,
+  "translit": "Waraʾaytan-nāsa yadkhulūna fī dīnillāhi afwājā",
+  "plain": "Wara'aytan-naasa yadkhuloona fee deenillaahi afwaajaa"
+ },
+ {
+  "surah": 110,
+  "ayah": 3,
+  "translit": "Fasabbiḥ biḥamdi rabbika wastaghfirhu innahū kāna tawwābā",
+  "plain": "Fasabbih bihamdi rabbika wastaghfirhu innahoo kaana tawwaabaa"
+ },
+ {
+  "surah": 111,
+  "ayah": 1,
+  "translit": "Tabbat yadā abī lahabin watabb",
+  "plain": "Tabbat yadaa abee lahabin watabb"
+ },
+ {
+  "surah": 111,
+  "ayah": 2,
+  "translit": "Mā aghnā ʿanhu māluhū wamā kasab",
+  "plain": "Maa aghnaa `anhu maaluhoo wamaa kasab"
+ },
+ {
+  "surah": 111,
+  "ayah": 3,
+  "translit": "Sayaṣlā nāran dhāta lahab",
+  "plain": "Sayaslaa naaran dhaata lahab"
+ },
+ {
+  "surah": 111,
+  "ayah": 4,
+  "translit": "Wamraʾatuhū ḥammālatal-ḥaṭab",
+  "plain": "Wamra'atuhoo hammaalatal-hatab"
+ },
+ {
+  "surah": 111,
+  "ayah": 5,
+  "translit": "Fī jīdihā ḥablum mim masad",
+  "plain": "Fee jeedihaa hablum mim masad"
+ },
+ {
+  "surah": 112,
+  "ayah": 1,
+  "translit": "Qul huwallāhu aḥad",
+  "plain": "Qul huwallaahu ahad"
+ },
+ {
+  "surah": 112,
+  "ayah": 2,
+  "translit": "Allāhuṣ-ṣamad",
+  "plain": "Allaahus-samad"
+ },
+ {
+  "surah": 112,
+  "ayah": 3,
+  "translit": "Lam yalid walam yūlad",
+  "plain": "Lam yalid walam yoolad"
+ },
+ {
+  "surah": 112,
+  "ayah": 4,
+  "translit": "Walam yakul lahū kufuwan aḥad",
+  "plain": "Walam yakul lahoo kufuwan ahad"
+ },
+ {
+  "surah": 113,
+  "ayah": 1,
+  "translit": "Qul aʿūdhu birabbil-falaq",
+  "plain": "Qul a`oodhu birabbil-falaq"
+ },
+ {
+  "surah": 113,
+  "ayah": 2,
+  "translit": "Min sharri mā khalaq",
+  "plain": "Min sharri maa khalaq"
+ },
+ {
+  "surah": 113,
+  "ayah": 3,
+  "translit": "Wamin sharri ghāsiqin idhā waqab",
+  "plain": "Wamin sharri ghaasiqin idhaa waqab"
+ },
+ {
+  "surah": 113,
+  "ayah": 4,
+  "translit": "Wamin sharrin-naffāthāti fil-ʿuqad",
+  "plain": "Wamin sharrin-naffaathaati fil-`uqad"
+ },
+ {
+  "surah": 113,
+  "ayah": 5,
+  "translit": "Wamin sharri ḥāsidin idhā ḥasad",
+  "plain": "Wamin sharri haasidin idhaa hasad"
+ },
+ {
+  "surah": 114,
+  "ayah": 1,
+  "translit": "Qul aʿūdhu birabbin-nās",
+  "plain": "Qul a`oodhu birabbin-naas"
+ },
+ {
+  "surah": 114,
+  "ayah": 2,
+  "translit": "Malikin-nās",
+  "plain": "Malikin-naas"
+ },
+ {
+  "surah": 114,
+  "ayah": 3,
+  "translit": "Ilāhin-nās",
+  "plain": "Ilaahin-naas"
+ },
+ {
+  "surah": 114,
+  "ayah": 4,
+  "translit": "Min sharril-waswāsil-khannās",
+  "plain": "Min sharril-waswaasil-khannaas"
+ },
+ {
+  "surah": 114,
+  "ayah": 5,
+  "translit": "Al-ladhī yuwaswisu fī ṣudūrin-nās",
+  "plain": "Al-ladhee yuwaswisu fee sudoorin-naas"
+ },
+ {
+  "surah": 114,
+  "ayah": 6,
+  "translit": "Minal-jinnati wan-nās",
+  "plain": "Minal-jinnati wan-naas"
+ }
+]
