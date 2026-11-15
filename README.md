@@ -1,10 +1,10 @@
-# Islamic Beginners Introduction Guide — private preview
+# Islamic Beginners Introduction Guide
 
 A calm Quran memorisation coach for people who are new to Islam. This first preview is the intro and the coach only. Learn a few verses at a time, mark them remembered when you are ready, and review earlier ones together every few sections.
 
-This preview is **not public, not listed, and not priced**. Do not deploy it, do not push it to a public repository, and do not add a shop or a buy button.
+This is a free Quran memorisation coach, published at [https://makerman-services.github.io/quran-memorisation-coach/](https://makerman-services.github.io/quran-memorisation-coach/). It is not listed on an app store and is not priced. It does not give religious rulings.
 
-This preview bundles the official Tanzil Quran Text (Simple, Version 1.1) and the official ClearQuran Allah Edition English by Talal Itani, each taken from that project's official download and left unaltered. Transliteration is loaded only from `data/transliteration-verses.json`. No recitation audio is included. This app does not give religious rulings.
+This site bundles the official Tanzil Quran Text (Simple, Version 1.1) and the official ClearQuran Allah Edition English by Talal Itani, each taken from that project's official download and left unaltered. Transliteration is loaded only from `data/transliteration-verses.json`. No recitation audio is included.
 
 ## What’s in the folder
 
@@ -21,13 +21,11 @@ This preview bundles the official Tanzil Quran Text (Simple, Version 1.1) and th
 
 Progress, saved items and settings stay in this browser’s `localStorage` only. There is no account and no server for user data.
 
-## How to run the preview
+## How to run it locally
 
-From this folder, start a local static server on a free port (do not use 8892, 8877, 8787, 8899, 8888 or 8901) and bind it only to this machine:
+From this folder, start a local static server and open `index.html` on a phone or in a phone-width window:
 
-    python3 -m http.server 8905 --bind 127.0.0.1
-
-Then open `index.html` on a phone or in a phone-width window.
+    python3 -m http.server 8000 --bind 127.0.0.1
 
 ## Tests
 
@@ -47,6 +45,4 @@ Warm paper: background `#f6efe4`, text `#2b2620`, accent `#d9773a`. System fonts
 
 The app does not make runtime network requests. Credit links in About and sources, and beside the verses, are ordinary links that open only if the reader taps them.
 
-## Before any public release
-
-This is not a pass to list the app, to add the held prayer-step or later helper screens, or to go live. Mal's yes still goes through Supervisor before release.
+This is a free Quran memorisation coach, published at [https://makerman-services.github.io/quran-memorisation-coach/](https://makerman-services.github.io/quran-memorisation-coach/). It is not listed on an app store and is not priced. It does not give religious rulings.

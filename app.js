@@ -1,4 +1,4 @@
-/* Islamic Beginners Introduction Guide — private preview.
+/* Islamic Beginners Introduction Guide — free Quran memorisation coach.
    Progress stays on this phone in localStorage. No accounts, no tracking. */
 (function (root, factory) {
   var api = factory();
@@ -114,7 +114,7 @@
         base.settings.fontSize = saved.settings.fontSize || 'medium';
         base.settings.showArabic = saved.settings.showArabic !== false;
         base.settings.showTranslation = saved.settings.showTranslation !== false;
-        // Transliteration is on by default (Mal, 15 Nov 2026). Only an explicit choice made with the toggle keeps it off.
+        // Transliteration is on by default. Only an explicit choice made with the toggle keeps it off.
         base.settings.transliterationChosen = saved.settings.transliterationChosen === true;
         base.settings.showTransliteration = base.settings.transliterationChosen ? saved.settings.showTransliteration !== false : true;
       }
